@@ -1,0 +1,140 @@
+\begin{figure}
+	\begin{center} \includegraphics[width=0.5\columnwidth]{Chapter5-img/Chapter5-img001.png} \end{center}
+	\caption{
+		Схемы структуры исследованных образцов.
+	}
+	\label{fig:qw1}
+\end{figure}
+
+\label{fig:fn1}
+
+~\ref{fig:ma2}
+\ref{fig:ma2}
+\ref{fig:qw1}
+
+\begin{align}\label{formula:qw1}
+U_{\mathit{an}}=-\frac{(C_1M)} 2(m_x^4+m_y^4+m_z^4)+(C_2M)m_z^2-2(C_3M)m_xm_y  
+\,.
+\end{align}
+
+\,,
+
+~\eqref{formula:ma2}
+\eqref{formula:qw1}
+\eqref{seq:refText0}
+\eqref{formula:fn1}
+
+\textcolor{red}{
+
+
+\def\pic_sign{\foreignlanguage{russian}{Г.С. Димитриев, И.В. Крайнов, В.Ф. Сапега, Н.С. Аверкиев, }\foreignlanguage{english}{J. Debus, E. L\textlatin{\"ahderanta. }}
+	 \foreignlanguage{russian}{{\textcyrillic{Энергетическая структура одиночного акцептора Mn в }}\foreignlanguage{english}{GaAs:Mn}}}
+
+*****************
+
+
+\begin{align}\label{laddersum}
+ \chi_{\alpha\beta}(\bm q, \omega) =  \frac{m^* \delta_{\alpha\beta}}{4\pi\hbar^2} + \frac{\rmi}{4} \int\limits_{0}^{\hbar\omega}\frac{d\varepsilon}{2\pi} {\rm Tr} \left[ \sum_{\bm k}  \sigma_\alpha G^R_{\bm{k},\varepsilon} \sigma_\beta G^A_{\bm{k}-\bm{q},\varepsilon-\hbar\omega} \right. 	
+\nonumber \\
+  + V_0^2 \left. \sum_{\bm k \bm{k}'}  \sigma_\alpha G^R_{\bm{k},\varepsilon} G^R_{\bm{k}',\varepsilon} \sigma_\beta G^A_{\bm{k}'-\bm{q},\varepsilon-\hbar\omega} G^A_{\bm{k}-\bm{q},\varepsilon-\hbar\omega} + \ldots \right] ,
+\end{align}
+
+\begin{align}
+\frac{\mathit{dI}}{d\omega d\Omega }\sim |\langle f_{\mathit{Mn}}|(2\widehat  S_za_z+\widehat  S_{\text{{}-}}a_{\text
+	+}+\widehat  S_{\text +}a_{\text{{}-}})|i_{\mathit{Mn}}\rangle |^2 \label{formula:df1}
+\\
+\mathbf{a}\sim \langle f_{\mathit{ph}}|(\mathbf {\widehat  e\widehat  p)\widehat  J(\widehat  e\widehat  p)}|i_{\mathit{ph}}\rangle \label{formula:df2}
+\,,
+\end{align}
+
+\begin{equation}\label{S_collision}
+S_z = \frac{T_z G_z }{1+\Omega_L^2 T_z T_{\parallel}} \:, \;\;\; {\bm S}_{\parallel} = \frac{T_z T_{\parallel} } {1+\Omega_L^2 T_z T_{\parallel}} \:\boldsymbol{\Omega}_L \times {\bm G}\:,
+\end{equation}
+
+
+
+\begin{table}
+	\caption{\label{tab:ma1}Зависимость ширины запрещенной зоны в GaAs от температуры \cite{A0_00_Wolpert_2012_a}. } \bigskip
+	\begin{center}
+		\begin{tabularx}{\linewidth}{|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|}
+			% |c|c|c|c|c|c|
+			\hline
+			\textbf{Температура, K} &
+			\textbf{Ширина запрещенной зоны, эВ}
+			\\\hline
+			0 &
+			1,522
+			\\\hline
+			4 &
+			1.519 
+			\\\hline
+			300 &
+			1,42
+			\\\hline
+		\end{tabularx}
+	\end{center}
+\end{table} 
+
+\begin{table}
+	\caption{\label{tab:ma1}Зависимость ширины запрещенной зоны в GaAs от температуры \cite{A0_00_Wolpert_2012_a}. } \bigskip
+	\begin{center}
+		\begin{tabularx}{\linewidth}{|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|
+			>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|}
+			% |c|c|c|c|c|c|
+			\hline
+			Образец &
+			Концентрация Mn &
+			Яма(слой)/ширина барьера (nm) &
+			Магнитная фаза &
+			$T_C(K)$
+			\\\hline
+			R1 &
+			1.5 x 10\textsuperscript{{}-5} &
+			1000 &
+			ПМ &
+			x
+			\\\hline
+			D1 &
+			2.5 x 10\textsuperscript{{}-5} &
+			(10/6) &
+			ПМ &
+			x
+			\\\hline
+			D2 &
+			2.5 x 10\textsuperscript{{}-5} &
+			(5/3) &
+			ПМ &
+			x
+			\\\hline
+			FMR &
+			0.04 &
+			1000 &
+			ФМ &
+			55
+			\\\hline
+			FM1 &
+			0.025 &
+			(10/3) &
+			ФМ &
+			35
+			\\\hline
+			FM2 &
+			0.04 &
+			(10/3) &
+			ФМ &
+			30
+			\\\hline
+			FM3 &
+			0.025 &
+			(5/3) &
+			ФМ &
+			6
+			\\\hline
+		\end{tabularx}
+	\end{center}
+\end{table} 
+
+
+ChapterIntro-img
+
+ChapterLitOverview-img

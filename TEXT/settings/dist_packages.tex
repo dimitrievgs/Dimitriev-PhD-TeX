@@ -1,0 +1,64 @@
+% !TEX root = Disser.tex
+% !TEX encoding = Windows-1251
+
+\usepackage{cmap}
+\usepackage[cp1251]{inputenc}
+%\usepackage[T2A,T1]{fontenc} % before babel! %пробуем для аббревиатур
+\usepackage[russian]{babel}
+%\usepackage[russian, english]{babel} 
+
+%\usepackage[%  %пробуем для аббревиатур
+%style=ieee,
+%isbn=true,
+%url=true,
+%defernumbers=true,
+%sorting=nyt, % "Sort by name, year, title."
+%sorting=none, % "Do not sort at all. All entries are processed in citation order." (order of appearance)
+%bibencoding=utf8,
+%backend=biber,
+%language=auto,    % get main language from babel
+%autolang=other,
+%]{biblatex}
+
+\usepackage{etoolbox} % Для продвинутой проверки разных условий
+
+%%% Математические пакеты %%%
+\usepackage{amsmath}   % Математические дополнения от AMS
+\usepackage{amssymb}       % Математические дополнения от AMS
+
+%%% Изображения %%%
+\usepackage{graphicx}                  % Подключаем пакет работы с графикой
+
+\usepackage{bm}
+
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor} %68 дополнительных цветов
+
+%%% Поля и разметка страницы %%%
+\usepackage{pdflscape}                              % Для включения альбомных страниц
+\usepackage{geometry}                               % Для последующего задания полей
+
+%%% Гиперссылки %%%
+\usepackage{hyperref}
+
+%%% The package setspace lets you easily change the line spacing, and that provides a macro \onehalfspacing
+\usepackage{setspace}
+
+\usepackage{enumerate}
+
+\usepackage{gensymb} % для знака градуса
+\usepackage{ulem} % зачеркивание текста
+\usepackage{array} % для указания размеров столбцов в таблице
+
+\usepackage{tabularx} % для указания столбцов в таблице в процентах
+\usepackage{multirow} % таблицы с объединением строк
+
+\usepackage{lastpage}
+
+\usepackage{fancyhdr} % чтобы указать положения номера страницы
+
+%%% Счётчики %%%
+\usepackage[figure,table]{totalcount}               % Счётчик рисунков и таблиц
+\usepackage{totcount}                               % Пакет создания счётчиков на основе последнего номера подсчитываемого элемента (может требовать дважды компилировать документ)
+
+\usepackage{nameref} % ссылки в тексте

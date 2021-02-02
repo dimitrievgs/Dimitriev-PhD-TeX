@@ -1,0 +1,58 @@
+% !TeX document-id = {6d9a54ad-53df-4e72-973c-c8c6d2dd8715}
+
+% !TEX encoding = Windows-1251
+
+\documentclass[12pt,russian,oneside]{book}
+
+%\documentclass[a4paper,14pt,russian,oneside,openany,oldfontcommands]{memoir}
+% oldfontcommands - добавил, чтобы поддерживалось переключение текста от Plain-TeX типа \bf
+
+%\documentclass[14pt, a4]{report}
+
+\input{settings/dist_packages}
+\input{settings/dist_style}
+
+\begin{document}
+\large % into 14pt
+%\fontsize{14}{15}\selectfont
+
+\pagestyle{empty} % нумерация выкл.
+\setcounter{page}{1}
+
+\baselineskip 24pt \baselineskip 24pt
+%\begin{titlepage}
+\include{TitlePage}
+
+%\end{titlepage}
+%\input{text_designations}
+
+\baselineskip 25pt \tableofcontents 
+\pagestyle{plain} % нумерация вкл.
+\baselineskip 24pt \baselineskip 22pt
+
+\input{Intro}
+% \input{Chapter_LitOverview/Chapter_LitOverview}
+\input{Chapter_ExperimentSetup}
+\input{Chapter_EnergyStructure}
+\input{Chapter_MagneticAnisotropy}
+\input{Chapter_QuantumWells}
+\input{Chapter_MnSpinDephasing}
+
+
+\input{Conclusion}
+
+\newpage
+\addcontentsline{toc}{chapter}{Список литературы}%
+
+\let\oldbibliography\thebibliography
+\renewcommand{\thebibliography}[1]{\oldbibliography{#1}
+\setlength{\itemsep}{0pt}}
+
+%\bibliographystyle{gost71u_mg}
+%%% Стили %%%
+\bibliographystyle{BibTeX-Styles/ugost2008l_dim}    % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
+%\bibliographystyle{BibTeX-Styles/utf8gost71u}    
+
+\bibliography{DimitrievDB}
+
+\end{document}

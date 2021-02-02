@@ -1,0 +1,65 @@
+A = 1
+
+#mF = 0 (10, 20, 30, 40)
+E10 = -3/2 * A -5/2 * A * sqrt(1 + 0.16 * x * (x + 1))
+E30 = -3/2 * A +5/2 * A * sqrt(1 + 0.16 * x * (x + 1))
+E20 = 3/2 * A - A * sqrt(49/4 - 5 * x + x ^ 2)
+E40 = 3/2 * A + A * sqrt(49/4 - 5 * x + x ^ 2)
+
+#mF = 1
+#F = 1, 2, 3, 4 (11, 21, 31, 41)
+var('x, y')
+f1 = y ^ 4 + y ^ 2 * (-23 + 4*x - 2*x^2) + y * (-18 + 12 * x) + 40 - 7*x+6*x^2 - 4*x^3+x^4
+f1_ = f1 == 0
+f1_s = solve([f1_], y)
+
+#mF = 2
+#F = 2, 3, 4 (22, 32, 42)
+f2 = y ^ 3 + y ^ 2 * (x-4) + y * (- x ^ 2 - 4 * x - 7) - x ^ 3 + 3 * x + 10
+f2_ = f2 == 0
+f2_s = solve([f2_], y)
+
+#mF = 3
+#F = 3, 4 (33, 43)
+E33 = 3 + sqrt(4 + x + x ^ 2)
+E43 = 3 - sqrt(4 + x + x ^ 2)
+
+#mF = 4
+#F = 4 (44)
+E44 = 5 + x
+
+var('x')
+var('y')
+g = Graphics()
+#g += plot(E10, (x, -10,10), legend_label = 'E10', color='red', title='Hole Energy on acceptor if linear deformation', axes_labels=['external linear deformation','Hole Energy/A'])
+#g += plot(E20, (x,-10,10), legend_label = 'E20', color='brown')
+#g += plot(E30, (x,-10,10), legend_label = 'E30', color='black')
+#g += plot(E40, (x,-10,10), legend_label = 'E40', color='lightblue')
+#g += implicit_plot(f1, (x,-10,10), (y, -15, 15), legend_label = 'EX1', color='green')
+g += implicit_plot(f2, (x,-10,10), (y, -15, 15), legend_label = 'EX2', color='orange')
+#g += plot(E33, (x,-10,10), legend_label = 'E33', color='gray')
+#g += plot(E43, (x,-10,10), legend_label = 'E43', color='gray')
+#g += plot(E44, (x,-10,10), legend_label = 'E44')
+g.show()
+
+
+#j = -10
+#while j <= 10:
+#    print j, '\t', E43(j).n()
+#    j = j + 2
+
+
+#print 'A'
+#print f1_s[0].rhs()(0).n()
+#print 'B'
+#print f1_s[1].rhs()(0).n()
+
+f3 = y + x
+f3_ = f3 == 0
+f3_s = solve([y + x == 0], y)
+#print f1_s[1].rhs()(0).n().real()
+
+j = -10
+while j <= 10:
+    print j, '\t', f2_s[2].rhs()(j).n().real()
+    j = j + 0.02

@@ -1,0 +1,115 @@
+%\documentclass[10pt,twoside]{article} % For the booklet printing
+\documentclass[10pt]{article}
+\tolerance=50000
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx,color}
+\usepackage{wrapfig}
+\usepackage[font=footnotesize,aboveskip=0pt]{caption}
+\usepackage{enumerate}
+\usepackage{bm}
+\usepackage{paralist}
+\usepackage{textpos}
+\usepackage{cmap}
+
+\usepackage{gensymb} % для знака градуса
+
+% \usepackage{hyperref} % For the booklet printing
+% \definecolor{blue}{rgb}{0,0,0} % For the booklet printing
+\usepackage[unicode=true,colorlinks=true,citecolor=blue,urlcolor=blue]{hyperref}
+% \newcommand{\red}[1]{{\color{red}#1}}
+% \newcommand{\rot}{\mathop{\mathrm {rot}}\nolimits}
+\renewcommand{\Im}{\mathop{\mathrm {Im}}\nolimits}
+\renewcommand{\Re}{\mathop{\mathrm {Re}}\nolimits}
+\newcommand{\e}{\mathrm{e}}
+\renewcommand{\i}{{\rm i}}
+\renewcommand{\d}{\mathrm d}
+%\newcommand{\change}[1]{\textcolor{black}{#1}}
+%\newcommand{\change}[1]{\textcolor{red}{#1}}
+
+%\usepackage{natbib}
+\makeatletter
+\newcommand*{\hyperlinkcite}[1]{\hyper@link{cite}{cite.#1}}%\hyperlinkcite takes 2 arguments: #1<- cite-key, #2<- link-text
+\makeatother
+
+\makeatletter
+\let\cite\relax
+\DeclareRobustCommand{\cite}{%
+  \let\new@cite@pre\@gobble
+  \@ifnextchar[\new@cite{\@citex[]}}
+\def\new@cite[#1]{\@ifnextchar[{\new@citea{#1}}{\@citex[#1]}}
+\def\new@citea#1{\def\new@cite@pre{#1}\@citex}
+\def\@cite#1#2{[{\new@cite@pre\space#1\if\relax\detokenize{#2}\relax\else, #2\fi}]}
+\makeatother
+
+\graphicspath{{img/}}
+
+% \newcommand{\braket}[3]{\left\langle #1 \left| #2 \right| #3 \right\rangle}
+% \newcommand{\ket}[1]{\left| #1 \right\rangle}
+% \newcommand{\MT}{\widetilde{\cal TM}}
+% \newcommand{\eps}{\varepsilon}
+% \newcommand{\dd}[1]{\frac{\partial^2}{\partial #1^2}}
+% \newcommand{\dz}{\frac{\partial}{\partial z}}
+% \newcommand{\dx}{\frac{\partial}{\partial x}}
+% \newcommand{\dy}{\frac{\partial}{\partial y}}
+% \newcommand{\dphi}{\frac{\partial}{\partial \varphi}}
+
+
+%Интервал 1.5
+\linespread{1.175}
+
+%disable underfull warnings
+\hbadness=10000
+
+\pagestyle{plain}
+ \setlength{\topmargin}{0.7in}
+ \setlength{\textwidth}{11.5cm}
+ \setlength{\textheight}{16.5cm}
+%Параметры заголовков
+\makeatletter%
+
+\renewcommand{\i}{{\rm{i}}}
+
+\def\bi#1{\textbf{\em #1}}
+% Переопредилим section чтобы оно было центрировано
+\renewcommand{\section}{\@startsection{section}{1}{\z@}%
+                                   {-2.5ex \@plus -1ex \@minus -.2ex}%
+                                   {1.3ex \@plus.2ex}%
+                                   {\centering\normalfont}}
+
+% Сделаем так, чтобы в подписях к рисункам был единичный
+% межстрочный интервал
+\long\def\@caption#1[#2]#3{\par\addcontentsline{\csname
+  ext@#1\endcsname}{#1}{\protect\numberline{\csname
+  the#1\endcsname}{\ignorespaces #2}}\begingroup
+    \@parboxrestore
+%%  \normalsize
+\linespread{1}
+    \@makecaption{\csname fnum@#1\endcsname}{\ignorespaces #3}\par
+\endgroup}
+
+% For the booklet printing
+% \setlength{\oddsidemargin}{-1.1cm}
+% \setlength{\evensidemargin}{6cm}
+
+\begin{document}
+
+
+\thispagestyle{empty} \noindent
+\begin{center} Работа выполнена в
+ Федеральном государственном бюджетном учреждении науки Физико-техническом
+институте им.~А.~Ф.~Иоффе Российской академии наук
+\end{center}
+
+
+\cite{Makhov2017,Firsov2015,Vinnichenko2013,Eichenberg2011,Firsov2010,Shalygin2007,Vorobjev2006,Vorobjev2006a,Vorobev2005,Vorobev2005a,Agekyan2004,SHALYGIN2003}
+
+%\newpage
+% \bibliographystyle{../TEXT/gost71u_mg}
+\bibliographystyle{../TEXT/BibTeX-Styles/ugost2008l_dim}    % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
+
+%\vspace{-4mm}
+\bibliography{testDB}
+\end{document}
+

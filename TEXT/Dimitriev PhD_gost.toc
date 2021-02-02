@@ -1,0 +1,2 @@
+\contentsline {chapter}{Bibliography}{3}{section*.2}
+\contentsline {chapter}{List of figures}{3}{section*.3}

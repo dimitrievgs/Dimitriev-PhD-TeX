@@ -1,0 +1,62 @@
+%%% Проверка используемого TeX-движка %%%
+
+
+%%% Поля и разметка страницы %%%
+%\usepackage{pdflscape}                              % Для включения альбомных страниц
+%\usepackage{geometry}                               % Для последующего задания полей
+
+%%%% Установки для размера шрифта 14 pt %%%%
+%% Формирование переменных и констант для сравнения (один раз для всех подключаемых файлов)%%
+%% должно располагаться до вызова пакета fontspec или polyglossia, потому что они сбивают его работу
+%\newlength{\curtextsize}
+%\newlength{\bigtextsize}
+%\setlength{\bigtextsize}{13.9pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{cmap}
+\usepackage[cp1251]{inputenc}
+%\usepackage[T2A,T1]{fontenc} % before babel! %пробуем для аббревиатур
+\usepackage[russian]{babel}
+%\usepackage[russian, english]{babel} 
+
+%\usepackage[%  %пробуем для аббревиатур
+%style=ieee,
+%isbn=true,
+%url=true,
+%defernumbers=true,
+%sorting=nyt, % "Sort by name, year, title."
+%sorting=none, % "Do not sort at all. All entries are processed in citation order." (order of appearance)
+%bibencoding=utf8,
+%backend=biber,
+%language=auto,    % get main language from babel
+%autolang=other,
+%]{biblatex}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{bm}
+
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor} %68 дополнительных цветов
+
+%%% Поля и разметка страницы %%%
+\usepackage{pdflscape}                              % Для включения альбомных страниц
+\usepackage{geometry}                               % Для последующего задания полей
+
+\usepackage{hyperref}
+\usepackage{enumerate}
+
+\usepackage{gensymb} % для знака градуса
+\usepackage{ulem} % зачеркивание текста
+\usepackage{array} % для указания размеров столбцов в таблице
+
+\usepackage{tabularx} % для указания столбцов в таблице в процентах
+\usepackage{multirow} % таблицы с объединением строк
+
+\usepackage{lastpage}
+
+%%% Счётчики %%%
+\usepackage[figure,table]{totalcount}               % Счётчик рисунков и таблиц
+\usepackage{totcount}                               % Пакет создания счётчиков на основе последнего номера подсчитываемого элемента (может требовать дважды компилировать документ)

@@ -1,0 +1,187 @@
+% !TEX root = Disser.tex
+% !TEX encoding = Windows-1251
+
+\graphicspath{{Images/}}
+
+\newtotcounter{citenum}
+\def\oldcite{}
+\let\oldcite=\bibcite
+\def\bibcite{\stepcounter{citenum}\oldcite}
+
+\newcommand{\com}[1]{} %for multiline comments
+
+%\usepackage{subfigure}
+
+%%% 
+%\newcommand{\erf}{\mathop{\rm erf}\nolimits}
+%\newcommand{\arch}{\mathop{\rm Arch}\nolimits}
+%\newcommand{\floor}{\mathop{\rm floor}\nolimits}
+%\newcommand{\divv}{\mathop{\rm div}\nolimits}
+%\newcommand{\grad}{\mathop{\rm grad}\nolimits}
+%\newcommand{\rot}{\mathop{\rm rot}\nolimits}
+%\newcommand{\sign}{\mathop{\rm sign}\nolimits}
+%\newcommand{\res}{\mathop{\rm res}}
+%\newcommand{\addMisha}[1]{#1}
+%%%
+
+\newcommand{\red}[1]{{\color{red}#1}}
+
+\newcommand{\av}[1]{\left\langle #1\right\rangle}
+\newcommand{\rmi}{{\rm i}}
+\newcommand{\rmd}{{\rm d}}
+\newcommand {\e}{{\rm e}}
+\newcommand {\Tr}{{\rm Tr}\,}
+\renewcommand {\i}{{\rm i}}
+\renewcommand {\Re}{\mathop{\mathrm{Re}}\nolimits}
+\renewcommand {\Im}{\mathop{\mathrm{Im}}\nolimits}
+
+\renewcommand{\eqref}[1]{(\ref{#1})}
+
+
+\newcounter{mylabelcounter} % нужны ссылки в тексте
+
+\makeatletter
+\newcommand{\labelText}[2]{%
+	#1\refstepcounter{mylabelcounter}%
+	\immediate\write\@auxout{%
+		\string\newlabel{#2}{{1}{\thepage}{{\unexpanded{#1}}}{mylabelcounter.\number\value{mylabelcounter}}{}}%
+	}%
+}
+\makeatother
+
+% нужны ссылки к названиям образцов, чтобы было понятно, какой образец в какой главе использовался
+% команда с проихвольным числом аргументов:
+% https://davidyat.es/2016/07/27/writing-a-latex-macro-that-takes-a-variable-number-of-arguments/
+%\makeatletter
+%	\newcommand{\csr}[1]{\textsuperscript{\nameref{#1}}}
+%\makeatother
+
+%\makeatletter
+%	\newcommand{\csr}[1]{\textsuperscript{\nameref{#1}}\checknextarg}
+%	\newcommand{\checknextarg}{\@ifnextchar\bgroup{\gobblenextarg}{}}
+%	\newcommand{\gobblenextarg}[1]{\textsuperscript{, }\textsuperscript{\nameref{#1}}\@ifnextchar\bgroup{\gobblenextarg}{}}
+%\makeatother
+
+% Из главы \labelText{3}{csr3}
+
+\makeatletter
+\newcommand{\cst}[1]{\textsuperscript{#1}}
+\makeatother
+
+
+
+%% \newcommand{\red}[1]{{\color{red} #1}}
+%\newcommand{\red}[1]{#1}
+%\newcommand{\A}{{\cal A}}
+%\newcommand{\B}{{\cal B}}
+%\renewcommand{\C}{{\cal C}}
+%\newcommand{\D}{{\cal D}}
+%\newcommand{\F}{{\cal F}}
+%\newcommand{\M}{{\cal M}}
+%\newcommand{\N}{{\cal N}}
+%\newcommand{\TM}{{\cal TM}}
+%\newcommand{\braket}[3]{\left\langle #1 \left| #2 \right| #3 \right\rangle}
+%\newcommand{\ket}[1]{\left| #1 \right\rangle}
+%\newcommand{\MT}{\widetilde{\cal TM}}
+%\newcommand{\eps}{\varepsilon}
+%\newcommand{\dd}[1]{\frac{\partial^2}{\partial #1^2}}
+%\newcommand{\dz}{\frac{\partial}{\partial z}}
+%\newcommand{\dx}{\frac{\partial}{\partial x}}
+%\newcommand{\dy}{\frac{\partial}{\partial y}}
+%\newcommand{\dphi}{\frac{\partial}{\partial \varphi}}
+%
+%
+%\renewcommand{\Im}{\mathop{\mathrm{Im}}\nolimits}
+%\renewcommand{\Re}{\mathop{\mathrm{Re}}\nolimits}
+%
+%\newcommand{\arctanh}{\mathop\mathrm {arctanh}\nolimits}
+%\newcommand{\e}{{\rm e}}
+%\newcommand{\rmi}{{\rm i}}
+
+\def\dfrac{\displaystyle\frac}
+\renewcommand\chaptername{Глава}
+\renewcommand\figurename{Рис.}
+\renewcommand\tablename{Таблица}
+\renewcommand\contentsname{Содержание}
+\renewcommand\bibname{Список литературы}
+
+%%% Интервалы %%%
+%% По ГОСТ Р 7.0.11-2011, пункту 5.3.6 требуется полуторный интервал
+%% Реализация средствами класса (на основе setspace) ближе к типографской классике.
+%% И правит сразу и в таблицах (если со звёздочкой)
+%\DoubleSpacing*     % Двойной интервал
+%\OnehalfSpacing*
+\onehalfspacing    % Полуторный интервал
+%\setSpacing{1.42}   % Полуторный интервал, подобный Ворду (возможно, стоит включать вместе с предыдущей строкой)
+
+%%% Макет страницы %%%
+% Выставляем значения полей (ГОСТ 7.0.11-2011, 5.3.7)
+\geometry{a4paper, top=2cm, bottom=2cm, left=2.5cm, right=1cm, nofoot, nomarginpar} %, heightrounded, showframe
+\setlength{\topskip}{0pt}   %размер дополнительного верхнего поля
+\setlength{\footskip}{12.3pt} % снимет warning, согласно https://tex.stackexchange.com/a/334346
+
+%%% Выравнивание и переносы %%%
+%% http://tex.stackexchange.com/questions/241343/what-is-the-meaning-of-fussy-sloppy-emergencystretch-tolerance-hbadness
+%% http://www.latex-community.org/forum/viewtopic.php?p=70342#p70342
+\tolerance 1414
+\hbadness 1414
+\emergencystretch 1.5em % В случае проблем регулировать в первую очередь
+\hfuzz 0.3pt
+\vfuzz \hfuzz
+%\raggedbottom
+%\sloppy                 % Избавляемся от переполнений
+\clubpenalty=10000      % Запрещаем разрыв страницы после первой строки абзаца
+\widowpenalty=10000     % Запрещаем разрыв страницы после последней строки абзаца
+\brokenpenalty=4991     % Ограничение на разрыв страницы, если строка заканчивается переносом
+
+%%\renewcommand\baselinestretch{1}
+%\hbadness 10000 \tolerance 10000 \pagestyle{empty} \textwidth
+%15.5cm \oddsidemargin 1.0cm \textheight 22cm \topmargin -1cm
+
+%   Parameters for FLOAT pages (not text pages):
+\renewcommand{\floatpagefraction}{0.6}  % require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+\renewcommand{\dblfloatpagefraction}{0.7}   % require fuller float pages
+
+% Different font in captions
+\newcommand{\captionfonts}{\small}
+
+% fancy не перезаписывает это?
+\makeatletter  % Allow the use of @ in command 
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+
+% для отображения нумерации страницы вверху
+\fancypagestyle{plain}{%
+	\fancyhf{} % clear all header and footer fields
+	\fancyhead{} % clear all header fields
+	\fancyfoot{} % clear all footer fields
+	\fancyhead[CO]{\thepage}
+	\fancyhead[CE]{\thepage}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+%
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyhead{} % clear all header fields
+\fancyfoot{} % clear all footer fields
+\fancyhead[CO]{\thepage}
+\fancyhead[CE]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\binoppenalty=10000 \relpenalty=10000
+
+
+\definecolor{indian-green}{HTML}{138808}

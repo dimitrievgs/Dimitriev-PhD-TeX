@@ -1,0 +1,957 @@
+% This file was converted to LaTeX by Writer2LaTeX ver. 1.4
+% see http://writer2latex.sourceforge.net for more info
+\documentclass[a4paper]{article}
+\usepackage[cp1251]{inputenc}
+\usepackage[T2A,T3,T1]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage[noenc]{tipa}
+\usepackage{tipx}
+\usepackage[geometry,weather,misc,clock]{ifsym}
+\usepackage{pifont}
+\usepackage{eurosym}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amssymb,amsfonts,textcomp}
+\usepackage{color}
+\usepackage{array}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{hyperref}
+\hypersetup{pdftex, colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=blue, urlcolor=blue, pdftitle=, pdfauthor=Григорий Димитриев, pdfsubject=, pdfkeywords=}
+\usepackage[pdftex]{graphicx}
+\usepackage{calc}
+\makeatletter
+\newcommand\arraybslash{\let\\\@arraycr}
+\makeatother
+% List styles
+\newcommand\liststyleLi{%
+\renewcommand\theenumi{\arabic{enumi}}
+\renewcommand\theenumii{\arabic{enumii}}
+\renewcommand\theenumiii{\arabic{enumiii}}
+\renewcommand\theenumiv{\arabic{enumiv}}
+\renewcommand\labelenumi{\theenumi.}
+\renewcommand\labelenumii{\theenumii)}
+\renewcommand\labelenumiii{\theenumiii.}
+\renewcommand\labelenumiv{\theenumiv.}
+}
+% Page layout (geometry)
+\setlength\voffset{-1in}
+\setlength\hoffset{-1in}
+\setlength\topmargin{2cm}
+\setlength\oddsidemargin{2cm}
+\setlength\textheight{25.7cm}
+\setlength\textwidth{17.001cm}
+\setlength\footskip{0.0cm}
+\setlength\headheight{0cm}
+\setlength\headsep{0cm}
+% Footnote rule
+\setlength{\skip\footins}{0.119cm}
+\renewcommand\footnoterule{\vspace*{-0.018cm}\setlength\leftskip{0pt}\setlength\rightskip{0pt plus 1fil}\noindent\textcolor{black}{\rule{0.25\columnwidth}{0.018cm}}\vspace*{0.101cm}}
+% Pages styles
+\makeatletter
+\newcommand\ps@Standard{
+  \renewcommand\@oddhead{}
+  \renewcommand\@evenhead{}
+  \renewcommand\@oddfoot{}
+  \renewcommand\@evenfoot{}
+  \renewcommand\thepage{\arabic{page}}
+}
+\makeatother
+\pagestyle{Standard}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+\newcounter{qwerty}
+\renewcommand\theqwerty{\arabic{qwerty}}
+\newcounter{Text}
+\renewcommand\theText{\arabic{Text}}
+\newlength{\idxmathdepth}\newlength{\idxmathtotal}\newlength{\idxmathwidth}\newlength{\idxraiseme}
+\newcommand{\idxdheight}[1]{\protect\settoheight{\idxmathtotal}{\(\displaystyle#1\)}\protect\settodepth{\idxmathdepth}{\(\displaystyle#1\)}\protect\settowidth{\idxmathwidth}{\(\displaystyle#1\)}\protect\addtolength{\idxmathtotal}{\idxmathdepth}\protect\setlength{\idxraiseme}{\idxmathtotal/2-\idxmathdepth}}
+\newcommand{\idxtheight}[1]{\protect\settoheight{\idxmathtotal}{\(\textstyle #1\)}\protect\settodepth{\idxmathdepth}{\(\textstyle #1\)}\protect\settowidth{\idxmathwidth}{\(\textstyle#1\)}\protect\addtolength{\idxmathtotal}{\idxmathdepth}\protect\setlength{\idxraiseme}{\idxmathtotal/2-\idxmathdepth}}
+\newcommand{\idxsheight}[1]{\protect\settoheight{\idxmathtotal}{\(\scriptstyle #1\)}\protect\settodepth{\idxmathdepth}{\(\scriptstyle #1\)}\protect\settowidth{\idxmathwidth}{\(\scriptstyle#1\)}\protect\addtolength{\idxmathtotal}{\idxmathdepth}\protect\setlength{\idxraiseme}{\idxmathtotal/2-\idxmathdepth}}
+\newcommand{\idxssheight}[1]{\protect\settoheight{\idxmathtotal}{\(\scriptscriptstyle #1\)}\protect\settodepth{\idxmathdepth}{\(\scriptscriptstyle #1\)}\protect\settowidth{\idxmathwidth}{\(\scriptscriptstyle#1\)}\protect\addtolength{\idxmathtotal}{\idxmathdepth}\protect\setlength{\idxraiseme}{\idxmathtotal/2-\idxmathdepth}}
+\newcommand\multiscripts[5]{\mathchoice{\idxdheight{#4}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#1\underset{#2}{\overset{#3}{#4}}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#5}{\idxtheight{#4}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#1\underset{#2}{\overset{#3}{#4}}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#5}{\idxsheight{#4}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#1\underset{#2}{\overset{#3}{#4}}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#5}{\idxssheight{#4}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#1\underset{#2}{\overset{#3}{#4}}\rule[-\idxmathdepth]{0mm}{\idxmathtotal}#5}}
+\title{}
+\author{Григорий Димитриев}
+\date{2018-02-01}
+\begin{document}
+{\centering\bfseries\itshape
+Полупроводники. Магнетизм
+\par}
+
+{\centering
+\foreignlanguage{english}{\textbf{\textcyrillic{Энергетическая структура одиночного акцептора Mn в
+GaAs}}}\foreignlanguage{russian}{\textbf{:}}\foreignlanguage{english}{\textbf{Mn}}
+\par}
+
+{\centering\bfseries\itshape
+\foreignlanguage{russian}{И.В. Крайнов
+}\foreignlanguage{russian}{\textsuperscript{1}}\foreignlanguage{english}{\textsuperscript{,2}}\foreignlanguage{english}{,}\foreignlanguage{russian}{
+}\foreignlanguage{english}{J. Debus }\foreignlanguage{english}{\textsuperscript{3}}\foreignlanguage{english}{,
+}\foreignlanguage{russian}{Н.С. Аверкиев }\foreignlanguage{russian}{\textsuperscript{1}}\foreignlanguage{russian}{,
+}Г.С. Димитриев \textsuperscript{1}, В.Ф. Сапега \textsuperscript{1}, 
+\par}
+
+{\centering\bfseries\itshape
+E. L\textlatin{\"ahderanta }\foreignlanguage{english}{\textsuperscript{2}} 
+\par}
+
+{\centering
+\textit{\textsuperscript{1}} \foreignlanguage{english}{\textbf{\textit{Ioffe Institute, Russian Academy of Sciences,
+194021 St. Petersburg, Russia}}}
+\par}
+
+{\centering\itshape
+\textsuperscript{2} Lappeenranta University of Technology, P.O. Box 20, FI-53851, Lappeenranta, Finland
+\par}
+
+{\centering\itshape
+\textsuperscript{3} Experimentelle Physik 2, Technische Universit\foreignlanguage{english}{\"a}t Dortmund, 44227
+Dortmund, Germany
+\par}
+
+{\centering
+\href{mailto:dimitriev@mail.ioffe.ru}{\foreignlanguage{english}{dimitriev@mail.ioffe.ru}}
+\par}
+
+~
+
+{\selectlanguage{russian}
+Исследована энергетическая структура акцептора марганца, состоящая из иона Mn$^{2+}$ и валентной дырки, при наличии
+внешнего магнитного поля и одноосной деформации. Исследованы спектры непругого рассеяния света с переворотом спина при
+резонансном возбуждении экситона, связанного на акцепторе Mn. Измерены g-фактора основного F = 1 и первого
+возбужденного состояния F = 2, описаны правила для оптических переходов между состояниями акцептора. Определена
+величина случайного поля (деформации или электрического поля) действующего на акцептор марганца и зависимость константы обменного
+взаимодействия локализованной дырки с электронами внутренней 3d оболочки иона Mn от приложенной деформации. Развита теоретическая модель, учитывающая влияние случайного поля деформации, внешней одноосной деформации и магнитного поля. 
+Предложенная модель хорошо описывает линии неупругого
+рассеяния света с переворотом спина акцептора Mn.}
+
+
+\bigskip
+
+{\raggedleft\
+Работа поддержана Грантом РФФИ № 15-52-12017 ННИО-а и Грантом Правительства РФ (договор № 14.Z50.31.0021,
+07.04.2014-31.12.2018).
+\par}
+
+
+\bigskip
+
+
+\bigskip
+
+{\sffamily
+1. Введение}
+
+
+\bigskip
+
+\textcyrillic{Быстро развивающаяся }\textcyrillic{область спинтроники} \textcyrillic{основана на предположении, что
+}\textcyrillic{замена заряда спином} \textcyrillic{в качестве носителя информации может привести к созданию устройств с
+более }\textcyrillic{низким потреблением энергии}, \textcyrillic{энергонезависимостью и высокой скоростью работы.
+}\label{ref:JRcite1A000Wolf2001}[1] \ \textcyrillic{Несмотря на эффективные способы детектирования намагниченности,
+}\label{ref:JRcite1A000Moodera1995}[2] \ \textcyrillic{манипуляция намагниченностью в основном выполняется локальными
+магнитными полями}, \textcyrillic{генерируемыми током, и очень неэффективна. }\textcyrillic{Основная слабость
+существующих реализаций магниторезистивной памяти} \textcyrillic{с произвольным доступом заключается в нелокальном по
+своей природе характере магнитных полей, используемых для переворота ферромагнитных доменов во время операции записи.
+Ни тепловое, ни индуцированное током переключение }\label{ref:JRcite1Myers1999}[3] \textcyrillic{не могут полностью
+решить проблему. }
+
+\textcyrillic{За последн}\foreignlanguage{russian}{и}\textcyrillic{е десятилети}\foreignlanguage{russian}{я}
+\textcyrillic{были предприняты значительные усилия для расширения функциональных возможностей полупроводниковой
+электроники путём синтеза магнитных }\textcyrillic{полупроводников. Эта возможность была открыта после обнаружения
+ферромагнетизма в разбавленном магнитном полупроводнике
+(}\foreignlanguage{english}{Ga},\foreignlanguage{english}{Mn})\foreignlanguage{english}{As}
+\ \label{ref:JRcite1A101A401APL199669363}[4] \ \ (\textcyrillic{РМП). }
+
+\textcyrillic{Разбавленные магнитные полупроводники (РМП) }\foreignlanguage{russian}{обладают}
+\textcyrillic{больш}\foreignlanguage{russian}{им} \textcyrillic{потенциал}\foreignlanguage{russian}{ом}
+\textcyrillic{для эффективной спиновой инжекции и манипуляции намагниченностью оптическими методами, так что они
+рассматриваются в настоящее время в качестве модельных материалов для спиновой электроники
+}\label{ref:JRcite1A301Gaj2011}[5] .\foreignlanguage{russian}{ Спин-зависимые явления в полупроводниках, такие как
+спиновая поляризация, магнитная анизотропия (MA) и анизотропное магнитосопротивление (АМР),} \textcyrillic{в основном
+связанные со спин-орбитальной связью в валентной зоне, }\ \label{ref:JRcite1A114Abolfath2001}[6]
+\foreignlanguage{russian}{открывают новые концепции для обработки и хранения информации за пределами обычной
+электроники }\label{ref:JRcite1A201Zutic2004RevModPhys763234102004}[7] \textcyrillic{потенциально применимы в
+энергонезависимых запоминающих устройствах и магниточувствительных устройствах. }\foreignlanguage{russian}{К области
+возможного практического применения ферромагнитных} \textcyrillic{полупроводник}\foreignlanguage{russian}{ов также
+относятся }\textcyrillic{сверхбыстрые магнитоэлектронные и магнитооптические устройства;
+}\label{ref:JRcite1A000Kirilyuk2010}[8] \textcyrillic{спиновые инжекторы }\label{ref:JRcite1Schmidt2001}[9],
+\textcyrillic{туннельные переходы }\label{ref:JRcite1A000Tanaka2001}[10] \ \textcyrillic{и устройства на гигантском
+плоском эффекте Холла }\label{ref:JRcite1Tang2003}[11] : \foreignlanguage{russian}{датчики для определения давления или
+считывающие переключающиеся магнитные датчики, например, }\foreignlanguage{english}{{}-}\foreignlanguage{russian}{
+считывающие датчики головки для жестких дисков и других способов хранения} \label{ref:JRcite1A000Tang2007}[12]
+\foreignlanguage{english}{\ }. 
+
+\textcyrillic{Среди различных материалов РМП с их перспективными особенностями, основное внимание обращено на III-V
+полупроводник (Ga, Mn) As }\label{ref:JRcite1A302Dietl2014ReviewsofModernPhysics}[13]. \textcyrillic{Будучи совместимым
+со стандартным полупроводниковым GaAs, разбавленный магнитный полупроводник (Ga,Mn)As оказался идеальной площадкой для
+изучения будущих применений спинтроники. }\ \textcyrillic{Особенностью легирующей примеси Mn в GaAs является его
+двойная роль в качестве акцептора, предоставляющего, в то же время, дырку и магнитный ион структуре.
+}\textcyrillic{Ферромагнетизм реализуется в (Ga,Mn)As за счет включения в Ga-подрешетку высоких концентраций
+(}\foreignlanguage{english}{{\textgreater}} 1\%\foreignlanguage{english}{)} \textcyrillic{магнитных ионов Mn2+.
+Ферромагнитная связь между спинами S = 5/2 }\textcyrillic{ионов
+Mn}\textsuperscript{2+} \textcyrillic{опосредуется }\foreignlanguage{russian}{делокализованными} \textcyrillic{дырками,
+}\foreignlanguage{russian}{поставляемыми} \textcyrillic{самим акцептором Mn. }\label{ref:JRcite31A106Glunk2009}[14] \ 
+
+\foreignlanguage{russian}{Сообщалось о создании образцов с температурами Кюри}  $T_C$ \textcyrillic{до 185 К
+}\label{ref:JRcite1Novak2008}[15], \textcyrillic{то есть значительно выше температуры жидкого азота } $N_2$,
+\textcyrillic{и нет доказательств фундаментального предела более высоких значений.
+}\label{ref:JRcite1Jungwirth2005}[16] 
+
+Как следствие, в этом материале наблюдаются свойства, которые не наблюдаются в обычных металлических ферромагнетиках,
+такие как управление магнитным состоянием светом \label{ref:JRcite1Oiwa2002}[17] , электрическими полями
+\label{ref:JRcite1Ohno2000}[18] \ и деформацией. 
+
+В этом контексте было показано, что магнитная анизотропия пленок  $\mathit{Ga}_{1-x}\mathit{Mn}_x\mathit{As}$ в
+значительной степени контролируется растягивающими и сжимающими деформациями
+\label{ref:JRcite01A111A307Shen1997JournalofCrystalGrowth}[19] \ с растягивающими и сжимающими деформациями,
+индуцирующими ориентацию намагниченности вне плоскости и в плоскости, соответственно. В работах
+\label{ref:JRcite1A111A307Shen1997JournalofCrystalGrowth}[19]
+\label{ref:JRcite1A112A308Welp2003Physicalreviewletters}[20] \foreignlanguage{russian}{отметили, что магнитная
+анизотропия обусловлена механической деформацией, возникающей в ходе роста, при этом, соответственно, эпитаксиальные
+деформации на сжатие в случае буфера }\foreignlanguage{english}{GaAs/}\foreignlanguage{russian}{слоя
+}\foreignlanguage{english}{(Ga,Mn)As}\foreignlanguage{russian}{, приводят к ориентации намагниченности в плоскости
+образца. При этом в работе }\label{ref:JRcite01A112A308Welp2003Physicalreviewletters}[20]\foreignlanguage{russian}{
+}\ \foreignlanguage{russian}{было показано, что при изменении температуры направление легкой оси меняется (вращается в
+плоскости пленки), что является следствием конкуренции между кубической анизотропией }
+$\mathit{Ga}_{1-x}\mathit{Mn}_x\mathit{As}$ \foreignlanguage{russian}{ и одноосной анизотропией в плоскости образца,
+возникающей в процессе роста. Первая формируется из-за спин-орбитального взаимодействия дыркок валентной зоны GaAs обуславливающих ферромагнетизм.}\foreignlanguage{russian}{ Вторая — из-за реконструкции
+поверхности. В плоскости пленки кубическая анизотропия формирует две эквивалентные легкие оси (в данном случае)
+}\foreignlanguage{english}{[010] }\foreignlanguage{russian}{и }\foreignlanguage{english}{[100],
+}\foreignlanguage{russian}{поэтому при температурах ниже }\foreignlanguage{english}{Tc/2
+}\foreignlanguage{russian}{наблюдался двухосный режим. С ростом температуры выделялась одна легкая ось, направленная в
+направлении }\foreignlanguage{english}{[110]. }
+
+\foreignlanguage{russian}{В работах
+}\label{ref:JRcite51A109A212A304Scherbakov2010Physicalreviewletters}[21]\foreignlanguage{english}{
+}\foreignlanguage{russian}{и }\label{ref:JRcite41A110A207A305Bombeck2012PhysicalReviewB}[22]\foreignlanguage{english}{
+}\foreignlanguage{russian}{была показана возможность возбуждения спиновых волн в слое }
+$\mathit{Ga}_{0.95}\mathit{Mn}_{0.05}\mathit{As}$ \foreignlanguage{russian}{пикосекундными импульсами деформации
+(полученными от освещения металлической пленки }\foreignlanguage{english}{Al }\foreignlanguage{russian}{импульсным
+фемтосекундным лазером), а в работе }\label{ref:JRcite1A228A306Sapega2013SolidStateCommunications}[23]
+-\foreignlanguage{russian}{ возможность управления намагниченностью }\textcyrillic{тонкого ферромагнитного слоя (Ga,
+Mn) As }\ \textcyrillic{статическ}\foreignlanguage{russian}{ой} \textcyrillic{одноосн}\foreignlanguage{russian}{ой}
+\foreignlanguage{russian}{деформацией}.
+
+\textcyrillic{В связи с этим остается открытым вопрос, является ли магнитная анизотропия (Ga, Mn) As связана со
+свойствами отдельных магнитных акцепторов Mn. Поэтому в нашей работе мы исследуем влияние
+}\foreignlanguage{russian}{одноосной }\textcyrillic{деформации на энергетическую структуру акцептора
+}\foreignlanguage{english}{Mn, }\foreignlanguage{russian}{и как одноосная деформация влияет на константу
+}\foreignlanguage{english}{p-d }\foreignlanguage{russian}{обмена.}
+
+Примесь Mn\textsuperscript{2+} в GaAs была исследована различными спектроскопическими методами
+\label{ref:JRcite1A309Schairer1974PhysicalReviewB}[24] \label{ref:JRcite1A121A310A409SVSSKarlik1982242022}[25]
+\label{ref:JRcite1A122A311Schneider1987Physicalreviewletters}[26] \label{ref:JRcite1A120A312A408FTT198830765}[27]
+\label{ref:JRcite1A125A231A313Linnarsson1997PhysicalReviewB}[28] \label{ref:JRcite1A123A220A314Sapega2001}[29] \ .
+Соответствующие результаты свидетельствуют о том, что дырка валентной зоны с полным угловым моментом J = 3/2 связана с
+ионом Mn\textsuperscript{2+}, чей спин S = 5/2 возникает из конфигурации 3d\textsuperscript{5} его внутренней оболочки.
+Исследования магнито-фотолюминесценции \label{ref:JRcite01A121A310A409SVSSKarlik1982242022}[25] \ \ и электронного
+парамагнитного резонанса (ЭПР) \label{ref:JRcite01A122A311Schneider1987Physicalreviewletters}[26], 
+показали антиферромагнитную связь между дыркой и спинами Mn. Этот антиферромагнитный обмен приводит к формированию
+комплекса \foreignlanguage{russian}{Mn2+-дырка с }четырьмя уровнями энергии, соответствующими различным значениям полного углового момента акцептора марганца, которые описываются
+с помощью квантового числа F = J + S = 1,2,3,4. 
+
+\foreignlanguage{english}{\textcyrillic{И}}\foreignlanguage{russian}{значально}\foreignlanguage{english}{
+}\foreignlanguage{russian}{\ рассматривал}\foreignlanguage{english}{\textcyrillic{и}}\foreignlanguage{russian}{сь две
+модели }\foreignlanguage{english}{\textcyrillic{к}}\foreignlanguage{russian}{онфигурации акцептора
+}\foreignlanguage{english}{Mn}\foreignlanguage{russian}{
+}\label{ref:JRcite41A122A311Schneider1987Physicalreviewletters}[26]\foreignlanguage{english}{
+}\foreignlanguage{russian}{: }
+
+\liststyleLi
+\begin{enumerate}
+
+\item {\selectlanguage{russian}
+Случай, когда дырке энергетически выгодно остаться на делокализованной орбите  $^4S_{3/2}$ вокруг  $3d^5$ {}-акцептора 
+$A^{\text{{}-}}$ . В этом случае в результате обменного взаимодействия между спином делокализованной дырки  $J=3/2$  и
+ядра  $A^{\text{{}-}}$ ( $3d^5$ )  $S=5/2$  формируется комплекс \foreignlanguage{english}{Mn2+ - }дырка. Подробно
+рассмотрен в работе \label{ref:JRcite1A001Averkiev}[30] В нашей работе мы также рассматриваем именно этот случай.}
+\item {\selectlanguage{russian}
+случай жесткой связи дырки и \foreignlanguage{english}{3d-}акцептора; дырка входит в  $3d^5$ {}-оболочку ядра 
+$A^{\text{{}-}}$ , что приводит к формированию $3d^4$ {}-конфигурации, а затем, возможно, подвергается (статическому)
+искажению Яна-Теллера, наблюдаемому для Cr ( $3d^4$ ) в GaAs и других тетраэдрически скоординированных
+полупроводниках.}
+
+\end{enumerate}
+\foreignlanguage{russian}{В работе
+}\label{ref:JRcite51A122A311Schneider1987Physicalreviewletters}[26]\foreignlanguage{russian}{ было показано, что
+спектры подтверждают первую модель, поскольку, в частности, во втором случае мы имели бы дело с центром с
+}\foreignlanguage{english}{Td }\foreignlanguage{russian}{симметрией, а
+}\foreignlanguage{english}{g-}\foreignlanguage{russian}{фактор для первых двух возбужденных состояний
+}\foreignlanguage{english}{T1 }\foreignlanguage{russian}{и }\foreignlanguage{english}{T2
+}\foreignlanguage{russian}{должен был принимать значение, согласно расчётам, } $3/2\le g(T_1)\le 2$
+\foreignlanguage{russian}{ и } $1/2\le g(T_2)\le 2/3$ \foreignlanguage{russian}{, что противоречит результатам
+экспериментов. g}\foreignlanguage{english}{{}-}\foreignlanguage{russian}{фактор основного состояния нейтрального
+акцептора 2.77 удовлетворяет первой модели. Также наблюдавшаяся изотропность последних двух линий свидетельствовала о
+центре с кубической симметрией и исключала возможность статического искажения Яна-Теллера.}
+
+Эффективный \foreignlanguage{english}{g}{}-фактор основного состояния F = 1 был определен как
+\foreignlanguage{english}{g} = 2.77 и 2.74 с помощью ЭПР
+\label{ref:JRcite11A122A311Schneider1987Physicalreviewletters}[26] \ \ и неупругого рассеяния света с переворотом спина
+(НРСПС) \label{ref:JRcite01A123A220A314Sapega2001}[29], соответственно. Эти значения \foreignlanguage{english}{g}
+фактора также находятся в хорошем согласии с моделью акцептора Mn, развитой в работе
+\label{ref:JRcite01A120A312A408FTT198830765}[27] \foreignlanguage{russian}{.} Также в работе \ \ наблюдалась линия
+\foreignlanguage{english}{g = 2.00, }\foreignlanguage{russian}{она}\foreignlanguage{english}{
+}\foreignlanguage{russian}{была отнесена к переходам } $\Delta M=1$ \foreignlanguage{russian}{внутри внешней оболочки
+ионизованного акцептора }\foreignlanguage{english}{Mn } $A^{\text{{}-}}$
+\foreignlanguage{russian}{и}\foreignlanguage{english}{ }\foreignlanguage{russian}{наблюдалась при температурах вплоть
+до 20К.}
+
+Основное состояние  $F=1$ расщепляется на два мультиплета \foreignlanguage{english}{c} проекцией полного углового
+момента на ось квантования  $m_F=0$  \foreignlanguage{russian}{и } $m_F=\pm 1$  из-за наличия случайной локальной
+деформации, в то время как это расщепление меньше обменной энергии акцептора Mn, которое принимает значения в диапазоне
+4-6 мэВ, что было оценено из различных косвенных исследований \label{ref:JRcite11A120A312A408FTT198830765}[27]
+\label{ref:JRcite01A125A231A313Linnarsson1997PhysicalReviewB}[28]. Путем непосредственного измерения разделения энергии
+между состояниями F = 1 и F = 2 методом \foreignlanguage{russian}{НРСПС} постоянная обмена оценивалась равной  $\Delta
+_{\mathit{F1}-\mathit{F2}}$  = 2.2 мэВ, что меньше из-за отсутствия учета локальной деформации
+\label{ref:JRcite11A123A220A314Sapega2001}[29] \label{ref:JRcite1A221A315Sapega2002PhysicalReviewB}[31] \ . Поскольку
+\foreignlanguage{russian}{НРСПС} успешно использовался для изучения обменных взаимодействий и оценки обменных констант
+в РМП на основе II-VI и III-V соединений \label{ref:JRcite21A123A220A314Sapega2001}[29]
+\label{ref:JRcite01A221A315Sapega2002PhysicalReviewB}[31] \label{ref:JRcite1A217A316Petrou1982}[32]
+\label{ref:JRcite1A218A317Peterson1985}[33] \label{ref:JRcite1A219A318Petrou1983}[34]
+\label{ref:JRcite1A319Krainov2015PhysicalReviewB}[35] \label{ref:JRcite1A320Debus2013PhysicalReviewB}[36]
+\label{ref:JRcite1A321Debus2014PhysicalReviewB}[37] , то он должен быть использован для изучения тонкой структуры
+акцептора Mn во всех деталях. 
+
+В данной работе мы определяем электронную структуру акцептора  $A_{\mathit{Mn}}^0$  в объемном GaAs в зависимости от
+внешней одноосной деформации и внешнего магнитного поля. Под воздействием одноосной деформации мы детектируем линии
+неупругого рассеяния света (НРС), возникающих из переходов с переворотом спина между мультиплетами основного состояния,
+а также между мультиплетами основного и первого возбужденного состояний и оцениваем соответствующие эффективные
+\foreignlanguage{english}{g}{}-факторы во внешнем магнитном поле. Расматриваются  правила
+оптического отбора для данного комплекса во внешнем магнитном поле и поле деформации. Мы находим, что в свободном объемном GaAs акцепторы \foreignlanguage{english}{Mn} испытывают
+случайную локальную деформацию, в то время как обменная энергия акцепторов Mn  уменьшается с увеличением
+одноосной сжимающей деформации. Кроме того, непосредственно измеряется влияние деформационного потенциала на обменную
+энергию. Экспериментальные результаты подтверждаются теоретической моделью, разработанной для акцептора Mn в
+рассмотрении случайного локального и приложенной внешней одноосной деформации, а также магнитного поля. Эта модель
+обеспечивает точную идентификацию линий НРСПС и подчеркивает, что ранее сообщавшееся значение  $\Delta
+_{\mathit{F1}-\mathit{F2}}$  обменной энергии дырок-ионов Mn была занижено примерно на 20\%.
+
+
+\bigskip
+
+{\sffamily
+2. Эксперимент}
+
+Объемный образец \foreignlanguage{english}{GaAs:Mn} был выращен в направлении [111] и легирован
+\foreignlanguage{english}{Mn} 6 {\texttimes} 10\textsuperscript{17} см\textsuperscript{{}-3} методом Чохральского
+\label{ref:JRcite31A123A220A314Sapega2001}[29] (заготовка в виде шайбы была выращена в направлении [111] методом
+Чохральского, затем из неё был вырезан параллелепипед с рабочей поверхностью  $(1\bar 10)$ ). Для резонансного
+возбуждения в экспериментах \foreignlanguage{russian}{НРСПС}, был использован перестраиваемый
+\foreignlanguage{english}{Ti}:сапфировый лазер. Плотность мощности лазера на поверхности образца составляла около 5 Вт
+/ см\textsuperscript{2}. Спектр \foreignlanguage{russian}{НРСПС} \foreignlanguage{russian}{анализировался} тройным
+монохроматором (\foreignlanguage{english}{DILOR} \foreignlanguage{english}{XY}) в режиме вычитания и регистрировался
+камерой прибора с зарядовой связью (\foreignlanguage{english}{CCD}). Температура образца в
+\foreignlanguage{english}{He} криостате поддерживалась при Т = 4 К. \foreignlanguage{english}{He
+}\foreignlanguage{russian}{криостат со сверхпроводящим магнитом позволял прикладывать магнитные поля }до
+\foreignlanguage{english}{B} = 5 \foreignlanguage{english}{T}. Одноосная деформация до Р = 5 кбар прикладывалось вдоль
+направления [111], перпендикулярно направлению внешнего магнитного поля, как показано на рис. \ref{seq:ref0}. \ 
+
+\begin{figure}
+\centering
+\begin{minipage}{16.912cm}
+{	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img001.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref0}}: Схема, демонстрирующая геометрию эксперимента: образец (серый
+кубоид) помещается между двумя свинцовыми пластинами (белые цилиндры). Векторы падающего и рассеянного света помечены
+как  $\mathbf{k}_i$ и  $\mathbf{k}_f$, соответственно. (Геометрия Фарадея) }
+\end{minipage}
+\end{figure}
+Для описания свойств циркулярной поляризации линий \foreignlanguage{russian}{НРСПС}, мы используем обозначение 
+$\text{\textcyrillic{х}}(\sigma ^{\eta },\sigma ^{\lambda })\bar x$ , где  $\bar x$  и х перпендикулярны к плоскости
+образца и \foreignlanguage{english}{$\eta $} = {\textpm}, \foreignlanguage{english}{$\lambda $} = {\textpm} обозначают
+круговую поляризацию возбуждающего  $\sigma ^{\eta }$  и рассеянного  $\sigma ^{\lambda }$  света, соответственно. Знак
+ $\eta $  или  $\lambda $ определяется знаком проекции спина фотона на направление распространения возбуждающего света.
+Линейные конфигурации поляризации были либо  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$ , или 
+$\text{\textcyrillic{х}}(\pi ,\pi )\bar x$ . В этом случае вектор электрического поля света параллелен, для
+\foreignlanguage{english}{$\pi $}, или перпендикулярен, для \foreignlanguage{english}{$\sigma $}, к оси [111].
+
+Зависимость спектров НРСПС от деформации смотрелась при накачке линейно поляризованным светом, а от магнитного поля –
+циркулярно поляризованным.
+
+Спектры циркулярной поляризации смотрелись в геометрии Фарадея, линейной — в геометрии Фойгта.
+
+
+\bigskip
+
+{\sffamily
+3. Экспериментальные результаты}
+
+
+\bigskip
+
+Спектр краевой фотолюминесценции (ФЛ) запрещенной зоны образца
+\foreignlanguage{english}{GaAs}:\foreignlanguage{english}{Mn} в отсутствии деформации показан красной кривой на рис.
+\ref{seq:ref1} при \foreignlanguage{english}{B} = 0 и Т = 4 К. Для возбуждения использовалась линия
+\foreignlanguage{english}{HeNe} лазера на 1.96 \foreignlanguage{english}{eV}. 
+
+
+{\centering \par}
+\begin{figure}
+\centering
+\begin{minipage}{15.406cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img002.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref1}}: Спектры краевой ФЛ образца не деформированного (сплошная
+кривая) и при приложении внешней одноосной деформации (пунктирная кривая). Левая вставка: Схема, иллюстрирующая
+происхождение переходов, наблюдаемых в краевой ФЛ. Стрелка, обозначенная \foreignlanguage{russian}{«0», означает
+нерезонансное возбуждение на 1.96 }\foreignlanguage{english}{eV}\foreignlanguage{russian}{.}}
+\end{minipage}
+\end{figure}
+{\centering \par}
+\begin{figure}
+\centering
+\begin{minipage}{16.016cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img003.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref2}}:
+{\textcyrillic{Зависимость энергетического положения объединенных
+зон ФЛ X и }} $A_{\mathit{Mn}}^0$ \foreignlanguage{english}{X \textcyrillic{от
+приложенно}}\foreignlanguage{russian}{й}\foreignlanguage{english}{
+}\foreignlanguage{russian}{деформации}\foreignlanguage{english}{. }}
+\end{minipage}
+\end{figure}
+
+
+Полоса ФЛ, обозначенная как  $e-A_{\mathit{Mn}}^0$ , с центром на 1.411 эВ, возникает из излучательной рекомбинации
+свободных фотовозбужденных электронов (е) с дырками, связанными на нейтральных акцепторах
+\foreignlanguage{english}{Mn}. Особенность, обозначенная как -\foreignlanguage{english}{LO} на спектре, обусловлена
+рекомбинацией на уровень акцептора е- $A_{\mathit{Mn}}^0$  с испусканием продольного оптического фонона (энергия LO-фонона $\sim$ 36.5 meV в центре зоны Бриллюэна в \foreignlanguage{english}{GaAs }при 4К). Полоса около 1.514 эВ
+приписывается в работе \label{ref:JRcite41A123A220A314Sapega2001}[29] \ перекрывающимся зонам свободного экситона
+(\foreignlanguage{english}{X}) и экситона, связанного на акцепторе \foreignlanguage{english}{Mn } $A_{\mathit{Mn}}^0$
+\foreignlanguage{english}{{}-X}.\foreignlanguage{english}{ }Внешняя одноосная деформация приводит к синему смещению
+обеих полос, как е- $A_{\mathit{Mn}}^0$ , так и объединенной полосы \foreignlanguage{english}{X} и  $A_{\mathit{Mn}}^0$
+{}-\foreignlanguage{english}{X} полос; см синюю кривую. Зависимость энергетического положения экситонной полосы от
+приложенной деформации показана на рис. \ref{seq:ref2}; положение полосы смещается при увеличении приложенной одноосной
+деформации от Р = 0 до 5 кбар примерно на +15 мэВ.
+
+Спектр НРСПС, полученный при резонансном возбуждении полосы \foreignlanguage{english}{A}0\foreignlanguage{english}{X}
+(Eexc = 1.514 эВ), показан на ~рис. \ref{seq:ref3} (\foreignlanguage{english}{a}). Он содержит резкую асимметричную
+линию НРС, сдвинутую на  $\Delta _{\mathit{F1}-\mathit{F1}}$= 0.7 мэВ от линии лазера, а также широкую линию НРС на 
+$\Delta _{\mathit{F1}-\mathit{F2}}$ = 4.4 мэВ. Широкую линию на 4.4 мэВ мы связываем с переходом между состояниями F =
+1 и F = 2 комплекса  $A_{\mathit{Mn}}^0$, в то время как линия \  $\Delta _{\mathit{F1}-\mathit{F1}}$ обусловлена,
+скорее всего, переходом между состояниями с \  $m_F$= 0 и  $|m_F|$= 1 ( $\Delta _{\mathit{mF}}=\pm 1$) основного
+состояния акцептора с F = 1, которое расщеплено вследствие наличия локального электрического поля или деформации
+\ \label{ref:JRcite51A123A220A314Sapega2001}[29] \ . 
+
+{\centering \par}
+\begin{figure}
+\centering
+\begin{minipage}{16.222cm}
+{
+	\centering
+	\includegraphics[height=12cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img004.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref3}}: (а) Спектр НРС акцептора \foreignlanguage{english}{Mn},
+полученный в конфигурации  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$ в нулевом магнитном поле и при отсутствии
+одноосной деформации; \foreignlanguage{english}{T} = 4 К. Лазерная линия и отсечка монохроматора
+\foreignlanguage{english}{(cut-off)} отмечены \foreignlanguage{english}{L }\foreignlanguage{russian}{и
+}\foreignlanguage{english}{CF, }\foreignlanguage{russian}{соответственно}. Переходы между подуровнями
+\foreignlanguage{english}{F1 }\foreignlanguage{russian}{и }\foreignlanguage{english}{F1-F2
+}\foreignlanguage{russian}{отмечены 11 и 12, соответственно.} (\foreignlanguage{english}{b}) Спектры НРС акцептора
+\foreignlanguage{english}{Mn} в геометрии  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$ при различных значениях
+деформации, приложенного вдоль оси [111]; Т = 4 К, \foreignlanguage{english}{B} = 0 Т. \foreignlanguage{english}{(c)}
+Спектры НРС для геометрий  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$ (\foreignlanguage{russian}{сплошная} кривая) и
+ $\text{\textcyrillic{х}}(\pi ,\pi )\bar x$ (точечная кривая); Т = 4 К, Р = 3.5 кбар.}
+\end{minipage}
+\end{figure}
+
+\bigskip
+
+Для того чтобы доказать это, мы исследуем влияние приложенной одноосной деформации на линии НРС. На рис. \ref{seq:ref3}
+(б) представлены спектры НРС измеренные как в отсутствие внешней деформации (кривая \foreignlanguage{english}{A}), так
+и измеренные при трёх различных значениях деформации. P{\textgreater}0. Для каждой приложенной деформации, спектр НРС
+измеряли при резонансном возбуждении полосы  $A_{\mathit{Mn}}^0-X$. Линия НРС  $\Delta _{\mathit{F1}-\mathit{F1}}$
+становится более узкой и гораздо более интенсивной с ростом величины деформации. Кроме того, свойства её линейной
+поляризации изменяются: в то время как она слабо поляризована при Р = 0, она становится сильно поляризованной в
+деформированном образце. Интенсивность усиливается в конфигурации скрещенной линейной поляризации \ 
+$\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$, как это показано на рис. \ref{seq:ref3} (\foreignlanguage{english}{c}).
+Кроме того, сдвиг этой линии НРС демонстрирует слабую, но немонотонную зависимость от приложенной деформации; см
+\foreignlanguage{russian}{линию 1} на рис. \ref{seq:ref4}.
+
+{\centering \begin{minipage}{16.434cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img005.eps}
+	\\
+	\raggedleft\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref4}}: Энергетические сдвиги линий НРС, измеренных в поляризационных
+конфигурациях  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar x$ (закрашенные символы; 1, 3 и 6) и 
+$\text{\textcyrillic{х}}(\pi ,\pi )\bar x$ (полые треугольники; 5) как функции одноосной деформации вдоль оси [111];
+\foreignlanguage{english}{T} = 4\foreignlanguage{english}{K}, \foreignlanguage{english}{B} =
+0\foreignlanguage{english}{T}. Экспериментальная погрешность не превышает размер символа. Кривые – это теоретические
+аппроксимации; подробности см в тексте.
+\par}
+\end{minipage}\par}
+
+\bigskip
+
+Широкая линия НРС  $\Delta _{\mathit{F1}-\mathit{F2}}$ расщепляется на три узкие линии при приложении одноосной
+деформации; они обозначены символами круг и треугольник на рис. \ref{seq:ref3} \foreignlanguage{english}{(b, c)}. Две
+из этих линий (\foreignlanguage{russian}{3 и 6}) наблюдаются в скрещенной  $\text{\textcyrillic{х}}(\pi ,\sigma )\bar
+x$ поляризации, а третья (5) проявляется в параллельной  $\text{\textcyrillic{х}}(\pi ,\pi )\bar x$ конфигурации.
+Зависимость сдвига линии НРС для каждой линии от приложенной деформации приведена на рис. \ref{seq:ref4}. Линии НРС 3 и
+5 демонстрируют уменьшение их энергий со схожим наклоном при увеличении деформации, в то время как линия 6 не
+чувствительна к степени деформации внутри образца. Одноосная деформация расщепляет состояния
+\foreignlanguage{english}{F} = 1 и \foreignlanguage{english}{F} = 2 акцептора \foreignlanguage{english}{Mn} на два (
+$m_F$ = 0, {\textpm} 1) и три ( $m_F$ = 0, {\textpm} 1, {\textpm} 2) - мультиплета соответственно. Здесь, каждый
+мультиплет характеризуется проекцией углового момента  $m_F$ на направление деформации.
+
+Внешнее магнитное поле снимает вырождения с показанных линий НРС и позволяет определить их происхождение, тем самым, построить
+энергетическую структуру акцептора. На рис. \ref{seq:ref5} показан циркулярно поляризованный спектр НРСПС, измеренный
+при \foreignlanguage{english}{B} = 5 Т, для образца, подвергнутого деформации Р = 4.8 кбар.
+Э\foreignlanguage{russian}{нергетический сдвиг экситонной полосы ФЛ при приложении магнитного поля пренебрежимо мал по
+сравнению с её шириной; Поэтому энергия возбуждения лазера была установлена на экситонный резонанс, только когда была
+приложена только внешняя деформация. Поскольку резонанс широкий, не надо было отслеживать сдвиг
+}\foreignlanguage{russian}{полосы экситонной фотолюминесценции}. В спектре НРСПС наблюдаются несколько хорошо
+разрешенных линий, которые можно отнести к парамагнитным резонансам примеси
+\foreignlanguage{english}{Mn}\textsuperscript{2+} и процессам рассеяния с переворотом спина в акцепторе
+\foreignlanguage{english}{Mn}.
+
+
+\begin{minipage}{16.492cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img006.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref5}}: Спектры НРСПС, измеренные при В = 5 Т в конфигурациях 
+$\text{\textcyrillic{х}}(\sigma ^{\text +},\sigma ^{\text{{}-}})\bar x$, точечная кривая, и 
+$\text{\textcyrillic{х}}(\sigma ^{\text +},\sigma ^{\text +})\bar x$, сплошная кривая; Т = 4 К, Р = 4.8 кбар. Стрелки
+указывают линии НРСПС, соответствующие переходам между состояниями F = 1 акцептора Mn и состояниями ионизованной
+примеси Mn\textsuperscript{2+}. }
+\end{minipage}
+
+
+\bigskip
+
+{\centering \par}
+\begin{figure}
+\centering
+\begin{minipage}{17cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img007.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref6}}: Зависимость различных энергетических сдвигов НРСПС сдвигов от
+магнитного поля для  $\text{\textcyrillic{х}}(\sigma ^{\text +},\sigma ^{\text{{}-}})\bar x$ , Т = 4 К, Р = 4.8 кбар.
+Кривые являются теоретическими аппроксимациями.}
+\end{minipage}
+\end{figure}
+Энергетические сдвиги двух линий НРСПС, 7 и 8, изменяется линейно с приложенным полем и стремятся при В = 0 Т к нулю,
+как это показано на рис. \ref{seq:ref6}. Их зависимости от магнитного поля могут быть представлены как  $E_7=g_d\mu
+_BB$  и  $E_8=2g_d\mu _BB$ , где $\mu $\foreignlanguage{english}{B} магнетон Бора и  $g_d$  = 2.02 {\textpm} 0.02. Так
+как величина \foreignlanguage{english}{g}{}-фактора и поляризационные характеристики хорошо совпадают со своими
+значениями для ионизованных акцепторов Mn \label{ref:JRcite21A122A311Schneider1987Physicalreviewletters}[26]
+\label{ref:JRcite61A123A220A314Sapega2001}[29] , мы полагаем, что эти низкоэнергетические линии НРСПС происходят из
+переворотов спинов электронов во внутренней оболочке ионизованных акцепторов Mn. 
+
+Эти линии связаны \foreignlanguage{russian}{с переходами электронов внутри
+}\foreignlanguage{english}{3d}\foreignlanguage{russian}{5}\foreignlanguage{english}{{}-}\foreignlanguage{russian}{оболочки
+отрицательно заряженного иона }\foreignlanguage{english}{Mn2+ (} $A^{\text{{}-}}$ \foreignlanguage{english}{)
+}\foreignlanguage{russian}{при взаимодействии с экситонами, связанными на соседних нейтральных акцепторах
+}\foreignlanguage{english}{Mn (} $A^0$ \foreignlanguage{english}{), }\foreignlanguage{russian}{с испусканием фотона
+}\label{ref:JRcite201A123A220A314Sapega2001}[29]\foreignlanguage{russian}{, а не с комплексами
+}\foreignlanguage{english}{A-X, }\foreignlanguage{russian}{вероятность формирования которых маловероятна в нашем случае
+}\label{ref:JRcite01A000SemicSemi1972}[38]\foreignlanguage{russian}{. }
+
+Линии НРСПС на 1.38 мэВ и 2.01 мэВ, отмеченные 1 и 2 на рис. \ref{seq:ref5} и \ref{seq:ref6}, в больших полях сдвигаются
+линейно с увеличением поля B, а их энергетический сдвиг хорошо описывается выражениями:  $E_1=g_{F=1}\mu _BB$  и 
+$E_2=2g_{F=1}\mu _BB$  с  $g_{F=1}$  = 2.74 {\textpm} 0.03. При уменьшении магнитного поля их энергетические сдвиги
+приближаются к тому же ненулевому значению  $\Delta _{\mathit{F1}-\mathit{F1}}$ . Эти две линии являются результатом
+переходов между подуровнями основного состояния Mn-акцептора  $\multiscripts{_{}^{F=1}}{{}}{{}}{A_{\mathit{Mn}}^0}{}$ ,
+расщепленного в магнитном поле \label{ref:JRcite31A122A311Schneider1987Physicalreviewletters}[26]
+\label{ref:JRcite71A123A220A314Sapega2001}[29] .
+
+Энергетические сдвиги линий \foreignlanguage{russian}{НРСПС }3, 5, 6 увеличиваются, в то время как энергетический сдвиг
+линии КР 4 уменьшается с ростом магнитного поля. Процессы \foreignlanguage{russian}{НРСПС}, дающие линии, отмеченные 3
+и 4, являются доминирующими в скрещенной круговой поляризации, два других не показывают каких-либо определенных
+особенностей поляризации. Происхождение этих зависящих от магнитного поля линий \foreignlanguage{russian}{НРСПС} не
+ясно, и их отнесение к переходам между различными зеемановскими подуровнями состояний F = 1 и F = 2 требует
+теоретического рассмотрения.
+
+
+\bigskip
+
+{\sffamily
+4. Теоретическое моделирование }
+
+
+\bigskip
+
+Исследуемые процессы НРСПС могут быть описаны в с помощью матрицы рассеяния. Дифференциальная интенсивность рассеяного света в единицу телесного угла выражается через матрицу рассеяния как $\mathit{dI}/d\omega d\Omega
+\sim |\langle f_{\mathit{ph}}f_{\mathit{Mn}}|\widehat  S|i_{\mathit{Mn}}i_{\mathit{ph}}\rangle |^2$, где  $\widehat 
+S$  - матрица рассеяния, I - интенсивность рассеянного света, а  $\text{{\textbar}}i\text{{\textgreater}}$ ,
+$\text{{\textbar}}f\text{{\textgreater}}$ - начальные и конечные состояния фотонов (ph) и акцептора Mn, соответственно. 
+Первый ненулевой вклад в интенсивность рассеяния определяется третьим
+порядком в теории возмущения, а именно, вторым порядком электрон-фотонного взаимодействия  $\widehat  V_{\mathit{ph}}$ 
+и первым порядком обменного взаимодействия  $\widehat  V_{\mathit{ex}}=A \mathbf{(\widehat  S\widehat  J)}$  между дыркой и
+3d\textsuperscript{5} электронами иона марганца, где A - константа обменного взаимодействия, $\mathbf{\widehat  S}$  и  $\mathbf{\widehat  J}$ - 
+операторы спина Mn и дырки, соответственно. Дифференциальная
+интенсивность рассеянного света может быть представлена в виде
+\begin{equation}\label{seq:refText0}
+\frac{\mathit{dI}}{d\omega d\Omega }\sim |\langle f_{\mathit{Mn}}|(2\widehat  S_za_z+\widehat  S_{\text{{}-}}a_{\text
++}+\widehat  S_{\text +}a_{\text{{}-}})|i_{\mathit{Mn}}\rangle |^2,
+\end{equation}
+\begin{equation}\label{seq:refText1}
+\mathbf{a}\sim \langle f_{\mathit{ph}}|(\mathbf {\widehat  e\widehat  p)\widehat  J(\widehat  e\widehat  p)}|i_{\mathit{ph}}\rangle 
+\end{equation}
+где  $\mathbf{\widehat  e}$  - оператор электрического поля и  $\mathbf{\widehat  p}$  оператор импульса электрона. Вектор  $\mathbf{a}$ 
+определяет поляризационные свойства рассеянного света. Для конфигурации  $x(\pi ,\sigma )\bar x$ 
+ $a_z$  = 0 и  $a_± \sim 1$, в то время как для параллельной линейной поляризованной конфигурации 
+$x(\pi ,\pi )\bar x$ , \textbf{а} = 0. Тем не менее, в четвертом порядке теории возмущений для конфигурации  $x(\pi ,\pi )\bar x$ процесс с двойным переворотом спина разрешен, что связано
+с компонентами  $(\widehat  S_{\text +}\widehat  J_{\text{{}-}})(\widehat  S_{\text{{}-}}\widehat  J_{\text +})$  или 
+$(\widehat  S_{\text +}\widehat  J_{\text{{}-}})(\widehat  S_{\text +}\widehat  J_{\text{{}-}})$  матрицы рассеяния.
+В точной геометрии Фарадея, для конфигурации поляризации \  $x(\sigma ^{\text +},\sigma
+^{\text{{}-}})\bar x$ , \textbf{а} равен нулю в третьем порядке теории возмущении, и только в четвертом порядке процесс с двойным переворотом спина, соответствующий  $(\widehat  S_{\text +}\widehat 
+J_{\text{{}-}})(\widehat  S_{\text +}\widehat  J_{\text{{}-}})$  становится разрешенным. Тем не менее, отклонение падающего
+луча на 10{\SmallCircle}-15{\SmallCircle} от нормали плоскости образца активирует процесс
+\foreignlanguage{russian}{НРСПС} в скрещенной поляризации  $x(\sigma ^{\text +},\sigma
+^{\text{{}-}})\bar x$ , а так же в конфигурациях  $x(\pi ,\sigma )\bar x$ и $x(\pi ,\pi )\bar x$ .
+
+Для расчета сигнала \foreignlanguage{russian}{НРСПС} необходимо использовать оператор спина Mn в представлении взаимодействия
+ $\mathbf {\widehat  S}\left(t\right)=e^{i\widehat  H_0t} \mathbf{\widehat  S}e^{-i\widehat  H_0t}$, где  $\widehat  H_0$  эффективный
+гамильтониан акцептора Mn, который будет приведен ниже. Матричный элемент  $\left\langle f_{\mathit{Mn}}\left|\mathbf {\widehat 
+S}(t)\left|i_{\mathit{Mn}}\right.\right.\right\rangle $  можно записать в виде  $e^{i\Delta t}\left\langle
+f_{\mathit{Mn}}\left|\mathbf {\widehat  S}\left|i_{\mathit{Mn}}\right.\right.\right\rangle $, где $\Delta =\omega _{f_{\mathit{Mn}}}-\omega _{i_{\mathit{Mn}}}$ - разница между собственными
+значениями гамильтониана $\widehat  H_0$, которая
+определяет сдвиг линии неупругого рассеяния. Эффективный гамильтониан, который описывает комплекс $A_{\mathit{Mn}}^0$, состоящий из Mn\textsuperscript{2+} и  локализованной дырки (\foreignlanguage{english}{h}), имеет следующий вид:
+
+
+\begin{equation}\label{seq:refText0}
+\begin{gathered}\widehat  H_0=\widehat  H_{\mathit{loc}}+A \mathbf{ \left(\widehat  S\widehat 
+	J\right)} + \mu _Bg_d \mathbf{ \left(\widehat  SB\right)}-\mu _Bg_h \mathbf{ \left(\widehat  JB\right) } -b\sum _i\epsilon _{\mathit{ii}}\widehat 
+J_i^2\\-d\sum _{\mathit{ij}}\epsilon _{\mathit{ij}}\left\{\widehat  J_i\widehat  J_j\right\}+\delta \sum
+_{\mathit{ij}}n_in_j\left\{\widehat  J_i\widehat  J_j\right\}\end{gathered}
+\end{equation}
+
+ $\widehat  H_{\mathit{loc}}$ - часть гамильтониана описывающая локализацию дырки на ионе марганца,  $\epsilon _{\mathit{ij}}$
+ тензор деформации, \foreignlanguage{english}{b}, \foreignlanguage{english}{d} -  константы деформационного потенциала акцептора \foreignlanguage{english}{Mn}, \foreignlanguage{english}{$\delta $} определяет силу случайного поля,
+$n_i$ - направляющие косинусы случайного поля, а  $\left\{\widehat 
+J_i\widehat  J_j\right\}=\left(\widehat  J_i\widehat  J_j+\widehat  J_j\widehat  J_i\right)/2$, где \foreignlanguage{english}{i},
+\foreignlanguage{english}{j} равны х, у и \foreignlanguage{english}{z}. Случайные поля, действующие на комплекс \foreignlanguage{english}{Mn}{}-дырка в каждой точке пространства могут быть представлены в виде  $\delta \widehat  J_{z'}^2$  со случайным направлением $z'$.
+Случайные поля могут быть вызваны наличием случайных локальных деформаций и/или заряженными центрами \foreignlanguage{english}{Mn}\textsuperscript{2+} \label{ref:JRcite01A223A303Jungwirth2006}[39] .
+
+Напрямую измеренная константа обменного взаимодействия $A$, определяемая из расщепления мультиплетов с полными моментами $F1$ и $F2$ по линии $\Delta _{\mathit{F1}-\mathit{F2}}$, составляет около 2.2 мэВ
+\label{ref:JRcite81A123A220A314Sapega2001}[29] и превышает энергию деформации   $\mathit{bP}/C_{\mathit{ii}}$, $\mathit{dP}/C_{\mathit{ii}}$, а также зеемановские энергии, где  $C_{\mathit{ii}}$ - упругие постоянные
+GaAs. Обменное взаимодействие снимает 24 кратное вырождение акцептора Mn и приводит к расщеплению на четыре уровня, которые характеризуются полным угловым  моментом F = S + J = 1,2,3,4 со степенью вырожденности 2F +
+1. Дальнейшее расщепление этих четырех уровней вызывается деформацией, случайными полями и внешним магнитным полем. Можно найти эффективные гамильтонианы, для основного (F = 1) и первого возбужденного (F = 2) состояния:
+\begin{equation}\label{seq:refText3}
+\begin{gathered}\widehat  H_{F=1}=\mu _B\left(\frac 7 4g_d+\frac 3 4g_h\right)\left(\mathbf {\widehat 
+FB}\right)-\frac{21}{10}\left[\mathit{bSp}\left(\widehat {\epsilon }\right)+\delta \right]\widehat  I-\frac 3{10}b\sum
+_i\widehat  F_i^2\epsilon _{\mathit{ii}}\\-\frac 3{10}d\sum _{\mathit{ij}}\left\{\widehat  F_i\widehat 
+F_j\right\}\epsilon _{ij}+\frac 3{10}\delta \sum _{\mathit{ij}}\left\{\widehat  F_i\widehat 
+F_j\right\}n_in_j,\end{gathered}
+\end{equation}
+\begin{equation}\label{seq:refText4}
+\begin{gathered}\widehat  H_{F=2}=\mu _B\left(\frac{11}{12}g_d-\frac 1{12}g_h\right)\left(\mathbf {\widehat 
+FB}\right)+\left[2A-\frac{55}{28}\mathit{bSp}\left(\widehat {\epsilon }\right)-\frac{55}{28}\delta \right]\widehat 
+I+\frac 5{14}b\sum _i\widehat  F_i^2\epsilon _{\mathit{ii}}\\+\frac 5{14}d\sum _{\mathit{ij}}\left\{\widehat 
+F_i\widehat  F_j\right\}\epsilon _{\mathit{ij}}-\frac 5{14}\delta \sum _{\mathit{ij}}\left\{\widehat  F_i\widehat 
+F_j\right\}n_in_j+2A_p\mathit{Sp}\left(\widehat {\epsilon }\right)\widehat  I.\end{gathered}
+\end{equation}
+Оба гамильтониана содержат единичную матрицу  $\widehat  I$  и оператор углового момента  $\mathbf {\widehat  F}$  с
+соответствующей размерностью. В (5) мы так же добавили зависящую от деформации поправку к константе обменной энергии $A_p \mathit{Sp}$, которую мы опредилим из сравнения с экспериментом. 
+Используя гамильтонианы (4) и (5) мы можем найти уровни энергии основного и первого возбужденного состояния акцептора Mn во внешних полях. Стоит отметить, что учет случайных локальных полей, действующих на
+акцептор Mn, требует, для расчета переходов \foreignlanguage{russian}{НРСПС}, усреднение по всем возможным ориентациям
+$z'$ случайных полей.
+
+
+\bigskip
+
+{\sffamily
+5. Обсуждение }
+
+
+\bigskip
+
+В этом разделе мы сравним данные измерений \foreignlanguage{russian}{НРСПС} с вышеописанн\foreignlanguage{english}{o}й
+теоретической моделью тонкой структуры акцептора Mn в присутствии случайного локального поля, внешних одноосной
+деформации и магнитного поля. Для расчетов используются следующие параметры:  $g_d$ = 2.02
+\label{ref:JRcite11A125A231A313Linnarsson1997PhysicalReviewB}[28] \label{ref:JRcite91A123A220A314Sapega2001}[29]
+\label{ref:JRcite1A229A323Sapega2009}[40] \ , \  $g_h$ = -1 \label{ref:JRcite01A319Krainov2015PhysicalReviewB}[35]
+\label{ref:JRcite01A229A323Sapega2009}[40] , d = 3.1 эВ
+\label{ref:JRcite21A125A231A313Linnarsson1997PhysicalReviewB}[28] \ , $\delta $ = 2 мэВ
+\label{ref:JRcite21A120A312A408FTT198830765}[27] , а упругие постоянные  $C_{11}$ = 1.22 Мбар,  $C_{12}$ = 0.55 Мбар и 
+$C_{44}$ = 0.62 Мбар, взяты из работы. \label{ref:JRcite1A324Burenkov1973Fizikatverdogotela}[41] . Из теоретического
+моделирования экспериментальных данных далее мы оцениваем постоянную р-d обмена А = 2.6 мэВ (
+$\text{{\textgreater}}\Delta _{\mathit{F1}-\mathit{F2}}$ ) и зависящую от деформации поправку к константе обменного взаимодействия $A_p$ = 0.2 эВ.
+
+Рассчитанные энергии основного и первого возбужденного состояний акцептора \foreignlanguage{english}{Mn} как функции
+одноосной деформации показаны на рис. \ref{seq:ref7} \foreignlanguage{english}{(a).} Здесь, мы считаем, что при
+отсутствии внешней деформации (\foreignlanguage{english}{P} = 0) акцептор \foreignlanguage{english}{Mn} испытывает
+случайную локальную деформацию, направленную вдоль оси [001] (для примера). Эта случайная
+деформация приводит к расщеплению основного и первого возбужденного состояний в  $F_1^0,F_1^{±1}$  и 
+$F_2^0,F_2^{±1},F_2^{±2}$  мультиплеты, соответственно.
+
+
+\bigskip
+
+{\centering \begin{minipage}{16.522cm}
+{
+	\centering
+	\includegraphics[height=9cm]{fttGaMnAsEnergy-img/fttGaMnAsEnergy-img008.eps}
+	\\
+	\itshape
+Рис {\refstepcounter{qwerty}\theqwerty\label{seq:ref7}}: Рассчитанные энергии уровней мультиплетов
+\foreignlanguage{english}{F} = 1 и \foreignlanguage{english}{F} = 2 со случайной деформацией $\delta $ = 2 мэВ,
+ориентированной вдоль оси [001]. Зависимость энергетических уровней акцептора \foreignlanguage{english}{Mn}{}-акцептора
+от (а) одноосной деформации, параллельной оси [111] и (б) от магнитного поля, ориентированного вдоль оси [1-10].
+Вертикальные стрелки, помеченные символами, соответствуют экспериментально наблюдавшимся
+\foreignlanguage{russian}{НРСПС} переходам между мультиплетами акцептора \foreignlanguage{english}{Mn} с
+\foreignlanguage{english}{F} = 1 и \foreignlanguage{english}{F} = 2, детали в тексте.}
+\end{minipage}\par}
+
+\bigskip
+
+Нижний индекс означает полный угловой момент, а верхний индекс его проекции  $m_F$ на ось [001], являющиеся хорошим квантовым числом в отсутствие внешних полей. Обратите внимание, что вырождение самого низкого по энергии 
+мультиплета определяется знаком случайной деформации $\delta $. Одноосная деформация, приложенное вдоль направления
+[111] приводит к дальнейшему расщеплению мультиплетов \foreignlanguage{english}{F} = 1 и \foreignlanguage{english}{F} =
+2. На рис.
+\ref{seq:ref7} \foreignlanguage{english}{(b)} показанно поведение мультиплетов акцептора \foreignlanguage{english}{Mn} в
+зависимости от магнитного поля, при приложении внешней одноосной деформации Р = 5 кбар.
+Стрелки 1 и 2 на рис. \ref{seq:ref7} (а) и \ref{seq:ref7} (б) показывают переходы между
+мультиплетами, характеризующимися полным угловым моментом \foreignlanguage{english}{F} = 1. Эти переходы соответствуют
+линиям \foreignlanguage{russian}{НРСПС} отмеченным 1 и 2 на рис.
+\ref{seq:ref4}, \ref{seq:ref5} и \ref{seq:ref6}. На этих рисунках теоретические аппроксимации зависимостей переходов
+\foreignlanguage{russian}{НРСПС} от приложенной деформации и магнитного поля  изображены кривыми.
+
+Видно, что одноосная деформация, приложенная вдоль направления [111] заметно не меняет начального расщепления,
+вызванного случайной деформацией. Это теоретическое предсказание хорошо согласуется с экспериментальным наблюдением. В
+модели, в которой предполагается отсутствие флуктуирующей случайной деформации, расщепление состояния F = 1 из-за
+внешней одноосной деформации показывает слабую линейную зависимость, как это показано пунктирной линией на рис.
+\ref{seq:ref4}. При приложении магнитного поля основное состояние расщепляется на три зеемановских подуровня.
+Рассчитанный \foreignlanguage{english}{g}{}-фактор этих состояний с F = 1 составляет \foreignlanguage{english}{g}{} = 2.75, что совпадает с измеренной величиной \foreignlanguage{english}{g} = 2.74; см. также круги на рис. \ref{seq:ref5}.
+Следует отметить, что \textit{ярко выраженные линии }\foreignlanguage{russian}{\textit{НРСПС}}\textit{ появляются, при
+B{\textgreater}0, когда энергия Зеемана сравнима с величиной случайного расщепления.} Значение расщепления состояния F = 1, вызванное случайной деформацией
+$\delta $ непосредственно соответствует энергетическому сдвигу (0.6-0.7 мэВ) линии НРС  $\Delta
+_{\mathit{F1}-\mathit{F1}}$  при нулевой одноосной деформации.
+
+
+Обсудим теперь линии \foreignlanguage{russian}{НРСПС}, связанные с переходами между состояниями мультиплетов с F = 1 и F = 2. Переходы, которые активны в процессах \foreignlanguage{russian}{НРСПС}
+обозначены синими стрелками на рис. \ref{seq:ref7}. Переходы в состояния F = 2 могут происходить с двух низших мультиплетов  $F_1^0\text{\textcyrillic{и}}F_1^{±1}$, при температурах  $E_{±1}^{F=1}-E_0^{F=1}/(k_BT){\approx}1$, что выполнено в эксперименте.
+\textit{Поляризационные свойства линий }\foreignlanguage{russian}{\textit{НРСПС}}\textit{
+позволяют отнести их к конкретным межуровневым переходам: в соответствии с правилами отбора для процессов
+}\foreignlanguage{russian}{\textit{НРСПС}}\textit{, обсуждаемых в рамках уравнений. (1) и (2), переходы, в которых
+спин марганца и дырки изменяется на {\textbar}1{\textbar}, присутствуют в спектрах НРСПС в конфигурациях со
+скрещенной поляризацией. Таким образом, линии НРС, которые наблюдаются в поляризации } $\text{\textcyrillic{х}}(\pi
+,\sigma )\bar x$ \textit{, могут быть отнесены к переходам между состояниями мультиплетов F = 1 и F = 2}, для линий 3 и 6. 
+% От сюда!
+При измерении НРСПС в одинаковой поляризации падающего и рассеяного света $\text{\textcyrillic{х}}(\pi ,\pi )\bar x$, как отмечалось ранее, возможны процессы с двойным переворотом спина. Линия 5 состоит из (\foreignlanguage{english}{i}) перехода между состояниями с полным моментом равным единице $F_1$ и, затем, (\foreignlanguage{english}{ii}) переходом в состояние F = 2. Этот процесс с двойным
+переворотом спина схематически показан последовательностью из двух стрелок на рис. \ref{seq:ref7}. В соответствии с
+этой схемой, разность энергий между переходами, принадлежащими к линиям 3 и 5 точно совпадает с энергией перехода между
+состояниями с F = 1; см. линию 1 на рис. \ref{seq:ref7} (а), а также кресты на рис. \ref{seq:ref4}.
+
+Во внешнем магнитном поле, процессы \foreignlanguage{russian}{НРСПС}, основанные на переходах между зеемановскими
+подуровнями с F = 2, не наблюдаются из-за их малой заселенности при низких температурах. Процессы рассеяния между подуровнями Зеемана с F = 1 на F = 2 обнаружены; они обозначены 3, 4, 5, 6 на рис.
+\ref{seq:ref4}, \ref{seq:ref5}, \ref{seq:ref6} и \ref{seq:ref7}. Зависимость этих линий от магнитного поля позволяет
+оценить \foreignlanguage{english}{g}{}-фактор мультиплета F = 2 как \foreignlanguage{english}{g} = 23/12 на основе
+сравнения теории и эксперимента в соответствии с уравнением (5) и получить \foreignlanguage{english}{g} = 2.74 для мультиплета
+\foreignlanguage{english}{F} = 1.
+
+Обсудим влияние одноосной деформации на постоянную
+\foreignlanguage{english}{p}{}-\foreignlanguage{english}{d} обмена А. В недеформированном материале разница энергий состояний с F = 1 и F = 2 равна удвоеной константе обменного взаимодействия.
+Одноосная деформация, приложенная вдоль направления [111] не меняет разность энергий этих состояний, в то время
+как экспериментальные данные показывают уменьшение их разницы энергий. Это уменьшение не может быть объяснено
+ни деформационным потенциалом акцептора Mn, ни, например, в два раза большим значением \foreignlanguage{english}{d},
+которое в работе \label{ref:JRcite1A326Averkiev1984SOVIETPHYSICSSEMICONDUCTORSUSSR}[43] равно 5-6 эВ. 
+Мы
+предполагаем, что уменьшение разницы энергий мультиплетов F = 1 и F = 2 обусловлено зависимостью
+от деформации константы обменного взаимодействия между электронами внутренней \foreignlanguage{english}{d}{}-оболочки иона Mn и локализованной дырки. Для того, чтобы учесть зависимость постоянной обмена
+\foreignlanguage{english}{A} от деформации нужно вычислить зависящий от деформации интеграл перекрытия волновых функций носителей
+заряда \label{ref:JRcite1A327Monakhov2008SolidStateCommunications}[44]
+\label{ref:JRcite1A328Yakunin2007Naturematerials}[45]. 
+Можно использовать феноменологический подход, разлагая постоянную обмена $A$ по степеням приложенной деформации Р. В первом приближении можно записать
+\begin{equation}
+A\left(\widehat {\epsilon }\right)=A+A_P\mathit{Sp}\left(\widehat {\epsilon }\right)
+\end{equation}
+Это приближение приводит к уравнениям (4) и (5). Из сравнения теории и эксперимента (где участвуют возбужденные состояния \foreignlanguage{english}{F} = 2, см кривые синего цвета на рис. 3) мы оцениваем
+значение  $A_P$  = 0.2 эВ. Это означает, что постоянная \foreignlanguage{english}{p}{}-\foreignlanguage{english}{d}
+обмена уменьшается примерно на  $\Delta A\left(P\right)/A\left(0\right){\approx}20\text{\%}$  для одноосной сжимающей
+деформации Р = 5 кбар, что является примерно половиной разрушающей деформации (11 кбар), направленной вдоль оси [111]. 
+
+
+\bigskip
+
+{\sffamily
+\foreignlanguage{russian}{6. Заключение}\textrm{\textbf{ }}}
+
+
+\bigskip
+
+Мы исследовали методом неупругого рассеяния с переворотом спина тонкую структуру акцептора Mn в объемном GaAs, в присутствии одноосной деформации и внешнего магнитного поля. Исследованы переходы между основным и первым возбужденным состоянием с полными моментами F = 1 и F = 2. 
+Мы показываем, что даже без внешней деформации акцептор Mn испытывает случайную локальную деформацию, которая вызывает расщепление основного состояния F = 1 до 0.7 мэВ. Показано, что сжимающая деформация приводит к снижению силы
+\foreignlanguage{english}{p}{}-\foreignlanguage{english}{d} обменного взаимодействия. Кроме того, измеренный эффективный  \foreignlanguage{english}{g}{}-фактор
+возбужденных состояний мультиплета F = 2 сравним с теоретически предсказанным значением \foreignlanguage{english}{g} = 23/12.
+Разработанная теоретическая модель акцептора Mn, которая рассматривает случайные внутренние и внешние деформации, а также магнитное поле. Построенная модель удовлетворительно описывает наблюдаемые линии НРСПС и их поляризационные
+характеристики. Наше исследование НРСПС акцептора Mn в GaAs подчеркивает, что его индивидуальные свойства имеют важное значение для объяснения зависимости антиферромагнитного обменного взаимодействия дырки с марганцем от деформации. 
+
+
+\bigskip
+
+
+\bigskip
+
+{\sffamily
+\textcyrillic{Список литературы}}
+
+[1] S. Wolf, D. Awschalom, R. Buhrman, J. Daughton, S. Von Molnar, M. Roukes, A. Y. Chtchelkanova and D. Treger,
+\textit{Spintronics: a spin-based electronics vision for the future}, Science \textbf{294}, 1488-1495 (2001).
+
+[2] J. S. Moodera, L. R. Kinder, T. M. Wong and R. Meservey, \textit{Large magnetoresistance at room temperature in
+ferromagnetic thin film tunnel junctions}, Physical review letters \textbf{74}, 3273 (1995).
+
+[3] E. B. Myers, \textit{Current-Induced Switching of Domains in Magnetic Multilayer Devices}, Science \textbf{285},
+867-870 (1999).
+
+[4] H. Ohno, A. Shen, F. Matsukura, A. Oiwa, A. Endo, S. Katsumoto and Y. Iye, \textit{(Ga,Mn)As: A new diluted magnetic
+semiconductor based on GaAs}, Applied Physics Letters \textbf{69}, 363-365 (1996).
+
+[5] Gaj, J. A. and Kossut, J., \textbf{2011}. \textit{Introduction to the Physics of Diluted Magnetic Semiconductors}.
+Springer Science \& Business Media, .
+
+[6] M. Abolfath, T. Jungwirth, J. Brum and A. H. MacDonald, \textit{Theory of magnetic anisotropy
+inIII1-xMnxVferromagnets}, Physical Review B \textbf{63}, 054418 (2001).
+
+[7] I. Zutic, J. Fabian and S. D. Sarma, \textit{Spintronics: Fundamentals and applications}, Rev. Mod. Phys. 76,
+323-410 (2004) \ (2004).
+
+[8] A. Kirilyuk, A. V. Kimel and T. Rasing, \textit{Ultrafast optical manipulation of magnetic order}, Reviews of Modern
+Physics \textbf{82}, 2731-2784 (2010).
+
+[9] G. Schmidt, G. Richter, P. Grabs, C. Gould, D. Ferrand and L. W. Molenkamp, \textit{Large Magnetoresistance Effect
+Due to Spin Injection into a Nonmagnetic Semiconductor}, Physical Review Letters \textbf{87} (2001).
+
+[10] M. Tanaka and Y. Higo, \textit{Large Tunneling Magnetoresistance in GaMnAs/AlAs/GaMnAs Ferromagnetic Semiconductor
+Tunnel Junctions}, Physical Review Letters \textbf{87} (2001).
+
+[11] H. X. Tang, R. K. Kawakami, D. D. Awschalom and M. L. Roukes, \textit{Giant Planar Hall Effect in Epitaxial
+(Ga,Mn)As Devices}, Physical Review Letters \textbf{90} (2003).
+
+[12] Tang, H. and Roukes, M. L. (\textbf{2007}). \textit{Sensors based on giant planar hall effect in dilute magnetic
+semiconductors}, \ .
+
+[13] T. Dietl and H. Ohno, \textit{Dilute ferromagnetic semiconductors: Physics and spintronic structures}, Reviews of
+Modern Physics \textbf{86}, 187-251 (2014).
+
+[14] M. Glunk, J. Daeubler, L. Dreher, S. Schwaiger, W. Schoch, R. Sauer, W. Limmer, A. Brandlmaier, S. T. B.
+Goennenwein, C. Bihler and M. S. Brandt, \textit{Magnetic anisotropy in (Ga,Mn)As: Influence of epitaxial strain and
+hole concentration}, Physical Review B \textbf{79} (2009).
+
+[15] V. Nov\'ak, K. Olejnk, J. Wunderlich, M. Cukr, K. V\'yborn\'y, A. W. Rushforth, K. W. Edmonds, R. P. Campion, B. L.
+Gallagher, J. Sinova and T. Jungwirth, \textit{Curie Point Singularity in the Temperature Derivative of Resistivity in
+(Ga,Mn)As}, Physical Review Letters \textbf{101} (2008).
+
+[16] T. Jungwirth, K. Y. Wang, J. Ma\v{s}ek, K. W. Edmonds, J. K\"onig, J. Sinova, M. Polini, N. A. Goncharuk, A. H.
+MacDonald, M. Sawicki, A. W. Rushforth, R. P. Campion, L. X. Zhao, C. T. Foxon and B. L. Gallagher, \textit{Prospects
+for high temperature ferromagnetism in (Ga,Mn)As semiconductors}, Physical Review B \textbf{72} (2005).
+
+[17] A. Oiwa, Y. Mitsumori, R. Moriya, T. S{\l}upinski and H. Munekata, \textit{Effect of Optical Spin Injection on
+Ferromagnetically Coupled Mn Spins in the III-V Magnetic Alloy Semiconductor(Ga,Mn)As}, Physical Review Letters
+\textbf{88} (2002).
+
+[18] H. Ohno, D. Chiba, F. Matsukura, T. Omiya, E. Abe, T. Dietl, Y. Ohno and K. Ohtani, \textit{Electric-field control
+of ferromagnetism}, Nature \textbf{408}, 944-946 (2000).
+
+[19] A. Shen, H. Ohno, F. Matsukura, Y. Sugawara, N. Akiba, T. Kuroiwa, A. Oiwa, A. Endo, S. Katsumoto and Y. Iye,
+\textit{Epitaxy of (Ga, Mn)As, a new diluted magnetic semiconductor based on GaAs}, Journal of Crystal Growth
+\textbf{175-176}, 1069-1074 (1997).
+
+[20] U. Welp, V. K. Vlasko-Vlasov, X. Liu, J. K. Furdyna and T. Wojtowicz, \textit{Magnetic Domain Structure and
+Magnetic Anisotropy inGa1-xMnxAs}, Physical Review Letters \textbf{90}, 167206 (2003).
+
+[21] A. V. Scherbakov, A. S. Salasyuk, A. V. Akimov, X. Liu, M. Bombeck, C. Br\"uggemann, D. R. Yakovlev, V. F. Sapega,
+J. K. Furdyna and M. Bayer, \textit{Coherent Magnetization Precession in Ferromagnetic (Ga,Mn)As Induced by Picosecond
+Acoustic Pulses}, Physical Review Letters \textbf{105}, 117204 (2010).
+
+[22] M. Bombeck, A. S. Salasyuk, B. A. Glavin, A. V. Scherbakov, C. Br\"uggemann, D. R. Yakovlev, V. F. Sapega, X. Liu,
+J. K. Furdyna, A. V. Akimov and M. Bayer, \textit{Excitation of spin waves in ferromagnetic (Ga,Mn)As layers by
+picosecond strain pulses}, Physical Review B \textbf{85}, 195324 (2012).
+
+[23] V. Sapega, I. Kraynov, N. Sablina, G. Dimitriev, N. Averkiev and K. Ploog, \textit{Control of magnetic anisotropy
+by external fields in ferromagnetic (Ga,Mn)As}, Solid State Communications \textbf{157}, 34-37 (2013).
+
+[24] W. Schairer and M. Schmidt, \textit{Strongly quenched deformation potentials of the Mn acceptor in GaAs}, Physical
+Review B \textbf{10}, 2501-2506 (1974).
+
+[25] I. Y. Karlik, I. A. Merkulov, D. N. Mirlin, L. P. Nikitin, V. I. Perel and V. F. Sapega, \textit{Magnetization of
+holes at acceptors and the polarization of the hot photoluminescence in GaAs: Mn crystals}, Sov. Phys. Solid State
+\textbf{24}, 2022 (1982).
+
+[26] J. Schneider, U. Kaufmann, W. Wilkening, M. Baeumler and F. K\"ohl, \textit{Electronic structure of the neutral
+manganese acceptor in gallium arsenide}, Physical Review Letters \textbf{59}, 240-243 (1987).
+
+[27] N. S. AVERKIEV, A. A. GUTKIN, E. B. OSIPOV and M. A. RESHCHIKOV, \textit{EFFECT OF THE HOLE-3D-ELECTRON EXCHANGE
+INTERACTION ON THE PROPERTIES OF THE MN DEEP ACCEPTOR IN GAAS}, FIZIKA TVERDOGO TELA \textbf{30}, 765-774 (1988).
+
+[28] M. Linnarsson, E. Janz\'en, B. Monemar, M. Kleverman and A. Thilderkvist, \textit{Electronic structure of the
+GaAs:MnGascenter}, Physical Review B \textbf{55}, 6938-6944 (1997).
+
+[29] V. Sapega, T. Ruf and M. Cardona, \textit{Spin-Flip Raman Study of Exchange Interactions in Bulk GaAs:Mn}, physica
+status solidi (b) \textbf{226}, 339-356 (2001).
+
+[30] \textcyrillic{Аверкиев Н.С. Гуткин А.А., О. Е. Р. М., }\textbf{1988}. \textit{\textcyrillic{Модель глубокого центра
+MnGa в GaAs}}. \textcyrillic{Академия Наук СССР, ФТИ им. А.Ф. Иоффе, Ленинград.}
+
+[31] V. F. Sapega, M. Moreno, M. Ramsteiner, L. D\"aweritz and K. Ploog, \textit{Electronic structure of Mn ions in
+(Ga,Mn)As diluted magnetic semiconductor}, Physical Review B \textbf{66}, 075217 (2002).
+
+[32] A. Petrou, D. L. Peterson, S. Venugopalan, R. R. Galazka, A. K. Ramdas and S. Rodriguez, \textit{Zeeman Effect of
+the Magnetic Excitations in a Diluted Magnetic Semiconductor: A Raman Scattering Study ofCd1-xMnxTe}, Physical Review
+Letters \textbf{48}, 1036-1039 (1982).
+
+[33] D. L. Peterson, D. U. Bartholomew, U. Debska, A. K. Ramdas and S. Rodriguez, \textit{Spin-flip Raman scattering in
+n-type diluted magnetic semiconductors}, Physical Review B \textbf{32}, 323-340 (1985).
+
+[34] A. Petrou, D. L. Peterson, S. Venugopalan, R. R. Galazka, A. K. Ramdas and S. Rodriguez, \textit{Raman scattering
+study of the magnetic excitations in diluted magnetic semiconductors in the presence of an external magnetic field},
+Physical Review B \textbf{27}, 3471-3482 (1983).
+
+[35] I. V. Krainov, V. F. Sapega, N. S. Averkiev, G. S. Dimitriev, K. H. Ploog and E. L\"ahderanta, \textit{Manganese
+spin dephasing mechanisms in ferromagnetic (Ga,Mn)As}, Physical Review B \textbf{92} (2015).
+
+[36] J. Debus, D. Dunker, V. F. Sapega, D. R. Yakovlev, G. Karczewski, T. Wojtowicz, J. Kossut and M. Bayer,
+\textit{Spin-flip Raman scattering of the neutral and charged excitons confined in a CdTe/}\textit{(Cd,Mg)Te quantum
+well}, Physical Review B \textbf{87} (2013).
+
+[37] J. Debus, V. F. Sapega, D. Dunker, D. R. Yakovlev, D. Reuter, A. D. Wieck and M. Bayer, \textit{Spin-flip Raman
+scattering of the resident electron in singly charged (In,Ga)As/GaAs quantum dot ensembles}, Physical Review B
+\textbf{90} (2014).
+
+[38] Bebb, H. B. and Williams, E., \textbf{1972}. \textit{Semiconductors and Semimetals, eds. RK Willardson and AC
+Beer}. Academic Press, New York and London, .
+
+[39] T. Jungwirth, J. Sinova, J. Ma\v{s}ek, J. Ku\v{c}era and A. H. MacDonald, \textit{Theory of ferromagnetic (III,Mn)V
+semiconductors}, Reviews of Modern Physics \textbf{78}, 809-864 (2006).
+
+[40] V. F. Sapega, N. I. Sablina, I. E. Panaiotti, N. S. Averkiev and K. H. Ploog, \textit{Hole spin polarization in the
+exchange field of the dilute magnetic (Ga,Mn)As semiconductor studied by means of polarized hot-electron
+photoluminescence spectroscopy}, Physical Review B \textbf{80} (2009).
+
+[41] Y. A. Burenkov, Y. M. Burdukov, S. Y. Davydov and SP NIKANORO., \textit{Temperature-dependence of gallium-arsenide
+elastic-constants}, Fizika tverdogo tela \textbf{15}, 1757-1761 (1973).
+
+[42] K. M. Yu, W. Walukiewicz, T. Wojtowicz, I. Kuryliszyn, X. Liu, Y. Sasaki and J. K. Furdyna, \textit{Effect of the
+location of Mn sites in ferromagneticGa1-xMnxAson its Curie temperature}, Physical Review B \textbf{65} (2002).
+
+[43] N. Averkiev, A. Gutkin, N. Kolchanova and M. Reshchikov, \textit{Influence of uniaxial deformation on the Mn
+impurity photoluminescence band of GaAs}, SOVIET PHYSICS SEMICONDUCTORS-USSR \textbf{18}, 1019-1021 (1984).
+
+[44] A. Monakhov, N. Sablina, N. Averkiev, C. \c{C}elebi and P. Koenraad, \textit{Spatial distribution of a hole
+localized on acceptor in deformed crystal}, Solid State Communications \textbf{146}, 416-419 (2008).
+
+[45] A. M. Yakunin, A. Y. Silov, P. M. Koenraad, J.-M. Tang, M. E. Flatt\'e, J.-L. Primus, W. V. Roy, J. D. Boeck, A. M.
+Monakhov, K. S. Romanov, I. E. Panaiotti and N. S. Averkiev, \textit{Warping a single Mn acceptor wavefunction by
+straining the GaAs host}, Nature Materials \textbf{6}, 512-515 (2007).
+
+\bigskip
+\end{document}

@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Dimitriev PhD.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: TitlePage.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+The style file: BibTeX-Styles/ugost2008l_dim.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: DimitrievDB.bib
+Warning--entry type for "A0_00_Tang2007" isn't style-file defined
+--line 1088 of file DimitrievDB.bib
+You've used 105 entries,
+            3915 wiz_defined-function locations,
+            1873 strings with 35457 characters,
+and the built_in function-call counts, 48296 in all, are:
+= -- 6227
+> -- 1452
+< -- 185
++ -- 468
+- -- 363
+* -- 3427
+:= -- 4822
+add.period$ -- 504
+call.type$ -- 105
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 105
+duplicate$ -- 2705
+empty$ -- 4144
+format.name$ -- 363
+if$ -- 12661
+int.to.chr$ -- 0
+int.to.str$ -- 105
+missing$ -- 0
+newline$ -- 729
+num.names$ -- 105
+pop$ -- 487
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2536
+stack$ -- 0
+substring$ -- 2092
+swap$ -- 2412
+text.length$ -- 185
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 282
+width$ -- 108
+write$ -- 1723
+(There was 1 warning)

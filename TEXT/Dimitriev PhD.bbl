@@ -1,0 +1,1042 @@
+\begin{thebibliography}{100}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
+\cyrdash\hskip.2em\ignorespaces}
+
+\bibitem{A0_00_Wolf2001}
+\selectlanguageifdefined{english}
+\BibEmph{Wolf~S.~A., Awschalom~D.~D., Buhrman~R.~A. et~al.} Spintronics: a
+  spin-based electronics vision for the future~//
+  \href{http://dx.doi.org/10.1126/science.1065389}{\BibEmph{Science}}. \BibDash
+\newblock 2001. \BibDash Nov. \BibDash
+\newblock \CYRT. 294, no. 5546. \BibDash
+\newblock P.~1488--1495.
+
+\bibitem{A0_00_Burkard2000}
+\selectlanguageifdefined{english}
+\BibEmph{Burkard~G., Engel~H.-A., Loss~D.} Spintronics and Quantum Dots for
+  Quantum Computing and Quantum Communication~//
+  \href{http://dx.doi.org/10.1002/1521-3978(200009)48:9/11<965::AID-PROP965>3.0.CO;2-V}{\BibEmph{Fortschritte
+  der Physik}}. \BibDash
+\newblock 2000. \BibDash sep. \BibDash
+\newblock \CYRT.~48, no. 9-11. \BibDash
+\newblock P.~965--986.
+
+\bibitem{Weber2010}
+\selectlanguageifdefined{english}
+\BibEmph{Weber~J.~R., Koehl~W.~F., Varley~J.~B. et~al.} Quantum computing with
+  defects~//
+  \href{http://dx.doi.org/10.1073/pnas.1003052107}{\BibEmph{Proceedings of the
+  National Academy of Sciences}}. \BibDash
+\newblock 2010. \BibDash apr. \BibDash
+\newblock \CYRT. 107, no.~19. \BibDash
+\newblock P.~8513--8518.
+
+\bibitem{A0_00_Chi2016}
+\selectlanguageifdefined{english}
+\BibEmph{Chi~P., Li~S., Cheng~Y. et~al.}
+  \href{http://dx.doi.org/10.1109/aspdac.2016.7427997}{Architecture design with
+  {STT}-{RAM}: Opportunities and challenges}~// 2016 21st Asia and South
+  Pacific Design Automation Conference ({ASP}-{DAC}). \BibDash
+\newblock {IEEE}, 2016. \BibDash jan.
+
+\bibitem{A0_00_Ramdas1982}
+\selectlanguageifdefined{english}
+\BibEmph{Ramdas~A.~K.} Raman scattering from magnetic excitations in diluted
+  magnetic semiconductors (invited)~//
+  \href{http://dx.doi.org/10.1063/1.330175}{\BibEmph{Journal of Applied
+  Physics}}. \BibDash
+\newblock 1982. \BibDash Nov. \BibDash
+\newblock \CYRT.~53, no.~11. \BibDash
+\newblock P.~7649--7653.
+
+\bibitem{A0_00_Furdyna1988}
+\selectlanguageifdefined{english}
+\BibEmph{Furdyna~J.~K.} Diluted magnetic semiconductors~//
+  \href{http://dx.doi.org/10.1063/1.341700}{\BibEmph{Journal of Applied
+  Physics}}. \BibDash
+\newblock 1988. \BibDash Aug. \BibDash
+\newblock \CYRT.~64, no.~4. \BibDash
+\newblock P.~R29--R64.
+
+\bibitem{Story1986}
+\selectlanguageifdefined{english}
+\BibEmph{Story~T., Galazka~R.~R., Frankel~R.~B., Wolff~P.~A.}
+  Carrier-concentration{\textendash}induced ferromagnetism in {PbSnMnTe}~//
+  \href{http://dx.doi.org/10.1103/physrevlett.56.777}{\BibEmph{Physical Review
+  Letters}}. \BibDash
+\newblock 1986. \BibDash feb. \BibDash
+\newblock \CYRT.~56, no.~7. \BibDash
+\newblock P.~777--779.
+
+\bibitem{A0_00_Munekata_1989}
+\selectlanguageifdefined{english}
+\BibEmph{Munekata~H., Ohno~H., von Molnar~S. et~al.} Diluted magnetic {III}-V
+  semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevlett.63.1849}{\BibEmph{Physical Review
+  Letters}}. \BibDash
+\newblock 1989. \BibDash oct. \BibDash
+\newblock \CYRT.~63, no.~17. \BibDash
+\newblock P.~1849--1852.
+
+\bibitem{A0_00_Ohno_1992}
+\selectlanguageifdefined{english}
+\BibEmph{Ohno~H., Munekata~H., Penney~T. et~al.} Magnetotransport properties of
+  p-type (In,Mn)As diluted magnetic {III}-V semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevlett.68.2664}{\BibEmph{Physical Review
+  Letters}}. \BibDash
+\newblock 1992. \BibDash apr. \BibDash
+\newblock \CYRT.~68, no.~17. \BibDash
+\newblock P.~2664--2667.
+
+\bibitem{A1_01_A4_01_APL_1996_69_363}
+\selectlanguageifdefined{english}
+\BibEmph{Ohno~H., Shen~A., Matsukura~F. et~al.} (Ga,Mn)As: A new diluted
+  magnetic semiconductor based on {GaAs}~//
+  \href{http://dx.doi.org/10.1063/1.118061}{\BibEmph{Applied Physics Letters}}.
+  \BibDash
+\newblock 1996. \BibDash Jul. \BibDash
+\newblock \CYRT.~69, no.~3. \BibDash
+\newblock P.~363--365.
+
+\bibitem{A4_04_JVSTB_1998_16_2267-2274}
+\selectlanguageifdefined{english}
+\BibEmph{Tanaka~M.} Epitaxial growth and properties of {III}{\textendash}V
+  magnetic semiconductor ({GaMn})As and its heterostructures~//
+  \href{http://dx.doi.org/10.1116/1.590160}{\BibEmph{Journal of Vacuum Science
+  {\&} Technology B: Microelectronics and Nanometer Structures}}. \BibDash
+\newblock 1998. \BibDash jul. \BibDash
+\newblock \CYRT.~16, no.~4. \BibDash
+\newblock P.~2267.
+
+\bibitem{A2_13_N_mec_2013}
+\selectlanguageifdefined{english}
+\BibEmph{N{\u{e}}mec~P., Nov{\'{a}}k~V., Tesa{\v{r}}ov{\'{a}}~N. et~al.} The
+  essential role of carefully optimized synthesis for elucidating intrinsic
+  material properties of (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1038/ncomms2426}{\BibEmph{Nature Communications}}.
+  \BibDash
+\newblock 2013. \BibDash jan. \BibDash
+\newblock \CYRT.~4. \BibDash
+\newblock P.~1422.
+
+\bibitem{A1_05_Bihler_2008}
+\selectlanguageifdefined{english}
+\BibEmph{Bihler~C., Althammer~M., Brandlmaier~A. et~al.} $Ga_{1-x} Mn_x
+  As$/piezoelectric actuator hybrids: A model system for magnetoelastic
+  magnetization manipulation~//
+  \href{http://dx.doi.org/10.1103/physrevb.78.045203}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2008. \BibDash jul. \BibDash
+\newblock \CYRT.~78, no.~4. \BibDash
+\newblock P.~045203.
+
+\bibitem{A2_23_A3_03_Jungwirth_2006}
+\selectlanguageifdefined{english}
+\BibEmph{Jungwirth~T., Sinova~J., Ma{\v{s}}ek~J. et~al.} Theory of
+  ferromagnetic ({III},Mn)V semiconductors~//
+  \href{http://dx.doi.org/10.1103/revmodphys.78.809}{\BibEmph{Reviews of Modern
+  Physics}}. \BibDash
+\newblock 2006. \BibDash aug. \BibDash
+\newblock \CYRT.~78, no.~3. \BibDash
+\newblock P.~809--864.
+
+\bibitem{A1_14_Abolfath_2001}
+\selectlanguageifdefined{english}
+\BibEmph{Abolfath~M., Jungwirth~T., Brum~J., MacDonald~A.~H.} Theory of
+  magnetic anisotropy in $III_{1-x} Mn_x V$ ferromagnets~//
+  \href{http://dx.doi.org/10.1103/physrevb.63.054418}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2001. \BibDash Jan. \BibDash
+\newblock \CYRT.~63, no.~5. \BibDash
+\newblock P.~054418.
+
+\bibitem{Oiwa2002}
+\selectlanguageifdefined{english}
+\BibEmph{Oiwa~A., Mitsumori~Y., Moriya~R. et~al.} Effect of Optical Spin
+  Injection on Ferromagnetically Coupled Mn Spins in the {III}-V Magnetic Alloy
+  Semiconductor(Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevlett.88.137202}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2002. \BibDash Mar. \BibDash
+\newblock \CYRT.~88, no.~13. \BibDash
+\newblock P.~137202.
+
+\bibitem{A1_02_Chiba_2008}
+\selectlanguageifdefined{english}
+\BibEmph{Chiba~D., Sawicki~M., Nishitani~Y. et~al.} Magnetization vector
+  manipulation by electric fields~//
+  \href{http://dx.doi.org/10.1038/nature07318}{\BibEmph{Nature}}. \BibDash
+\newblock 2008. \BibDash Sep. \BibDash
+\newblock \CYRT. 455, no. 7212. \BibDash
+\newblock P.~515--518.
+
+\bibitem{A1_03_Overby_2008}
+\selectlanguageifdefined{english}
+\BibEmph{Overby~M., Chernyshov~A., Rokhinson~L.~P. et~al.} {GaMnAs}-based
+  hybrid multiferroic memory device~//
+  \href{http://dx.doi.org/10.1063/1.2917481}{\BibEmph{Applied Physics
+  Letters}}. \BibDash
+\newblock 2008. \BibDash May. \BibDash
+\newblock \CYRT.~92, no.~19. \BibDash
+\newblock P.~192501.
+
+\bibitem{A1_04_Rushforth_2008}
+\selectlanguageifdefined{english}
+\BibEmph{Rushforth~A.~W., Ranieri~E.~De, Zemen~J. et~al.} Voltage control of
+  magnetocrystalline anisotropy in ferromagnetic-semiconductor-piezoelectric
+  hybrid structures~//
+  \href{http://dx.doi.org/10.1103/physrevb.78.085314}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2008. \BibDash aug. \BibDash
+\newblock \CYRT.~78, no.~8. \BibDash
+\newblock P.~085314.
+
+\bibitem{A1_11_A3_07_Shen_1997_JournalofCrystalGrowth}
+\selectlanguageifdefined{english}
+\BibEmph{Shen~A., Ohno~H., Matsukura~F. et~al.} Epitaxy of (Ga, Mn)As, a new
+  diluted magnetic semiconductor based on {GaAs}~//
+  \href{http://dx.doi.org/10.1016/s0022-0248(96)00967-0}{\BibEmph{Journal of
+  Crystal Growth}}. \BibDash
+\newblock 1997. \BibDash May. \BibDash
+\newblock \CYRT. 175-176. \BibDash
+\newblock P.~1069--1074.
+
+\bibitem{A1_12_A3_08_Welp_2003_Physicalreviewletters}
+\selectlanguageifdefined{english}
+\BibEmph{Welp~U., Vlasko-Vlasov~V.~K., Liu~X. et~al.} Magnetic Domain Structure
+  and Magnetic Anisotropy in $Ga_{1-x} Mn_x As$~//
+  \href{http://dx.doi.org/10.1103/physrevlett.90.167206}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2003. \BibDash Apr. \BibDash
+\newblock \CYRT.~90, no.~16. \BibDash
+\newblock P.~167206.
+
+\bibitem{A1_06_Glunk_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Glunk~M., Daeubler~J., Dreher~L. et~al.} Magnetic anisotropy in
+  (Ga,Mn)As: Influence of epitaxial strain and hole concentration~//
+  \href{http://dx.doi.org/10.1103/physrevb.79.195206}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2009. \BibDash may. \BibDash
+\newblock \CYRT.~79, no.~19. \BibDash
+\newblock P.~195206.
+
+\bibitem{A1_09_A2_12_A3_04_Scherbakov_2010_Physicalreviewletters}
+\selectlanguageifdefined{english}
+\BibEmph{Scherbakov~A.~V., Salasyuk~A.~S., Akimov~A.~V. et~al.} Coherent
+  Magnetization Precession in Ferromagnetic (Ga,Mn)As Induced by Picosecond
+  Acoustic Pulses~//
+  \href{http://dx.doi.org/10.1103/physrevlett.105.117204}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2010. \BibDash Sep. \BibDash
+\newblock \CYRT. 105, no.~11. \BibDash
+\newblock P.~117204.
+
+\bibitem{A1_10_A2_07_A3_05_Bombeck_2012_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Bombeck~M., Salasyuk~A.~S., Glavin~B.~A. et~al.} Excitation of spin
+  waves in ferromagnetic (Ga,Mn)As layers by picosecond strain pulses~//
+  \href{http://dx.doi.org/10.1103/physrevb.85.195324}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2012. \BibDash may. \BibDash
+\newblock \CYRT.~85, no.~19. \BibDash
+\newblock P.~195324.
+
+\bibitem{A1_16_Wenisch_2007}
+\selectlanguageifdefined{english}
+\BibEmph{Wenisch~J., Gould~C., Ebel~L. et~al.} Control of Magnetic Anisotropy
+  in (Ga,Mn)As by Lithography-Induced Strain Relaxation~//
+  \href{http://dx.doi.org/10.1103/physrevlett.99.077201}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2007. \BibDash Aug. \BibDash
+\newblock \CYRT.~99, no.~7. \BibDash
+\newblock P.~077201.
+
+\bibitem{A1_17_H_mpfner_2007}
+\selectlanguageifdefined{english}
+\BibEmph{H{\"u}mpfner~S., Pappert~K., Wenisch~J. et~al.} Lithographic
+  engineering of anisotropies in (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1063/1.2710478}{\BibEmph{Applied Physics
+  Letters}}. \BibDash
+\newblock 2007. \BibDash mar. \BibDash
+\newblock \CYRT.~90, no.~10. \BibDash
+\newblock P.~102102.
+
+\bibitem{McCluskeyHTE}
+\selectlanguageifdefined{english}
+\BibEmph{McCluskey~F.~P., Podlesak~T., Grzybowski~R.} High Temperature
+  Electronics. \BibDash
+\newblock CRC Press, 2018. \BibDash
+\newblock
+  ISBN:~\href{http://isbndb.com/search-all.html?kw=9781351440806}{9781351440806}.
+
+\bibitem{A0_02_Zaharchenya_1989}
+\selectlanguageifdefined{russian}
+\BibEmph{Захарченя~{\CYRB}.~{\CYRP}., Майер~{\CYRF}.} Оптическая ориентация.
+  \BibDash
+\newblock Наука. Ленингр. отд-ние, 1989.
+
+\bibitem{A3_09_Schairer_1974_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Schairer~W., Schmidt~M.} Strongly quenched deformation potentials of
+  the Mn acceptor in {GaAs}~//
+  \href{http://dx.doi.org/10.1103/physrevb.10.2501}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 1974. \BibDash sep. \BibDash
+\newblock \CYRT.~10, no.~6. \BibDash
+\newblock P.~2501--2506.
+
+\bibitem{Schmidt2001}
+\selectlanguageifdefined{english}
+\BibEmph{Schmidt~G., Richter~G., Grabs~P. et~al.} Large Magnetoresistance
+  Effect Due to Spin Injection into a Nonmagnetic Semiconductor~//
+  \href{http://dx.doi.org/10.1103/physrevlett.87.227203}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2001. \BibDash nov. \BibDash
+\newblock \CYRT.~87, no.~22. \BibDash
+\newblock P.~227203.
+
+\bibitem{A0_00_Bhatti2017}
+\selectlanguageifdefined{english}
+\BibEmph{Bhatti~S., Sbiaa~R., Hirohata~A. et~al.} Spintronics based random
+  access memory: a review~//
+  \href{http://dx.doi.org/10.1016/j.mattod.2017.07.007}{\BibEmph{Materials
+  Today}}. \BibDash
+\newblock 2017. \BibDash nov. \BibDash
+\newblock \CYRT.~20, no.~9. \BibDash
+\newblock P.~530--548.
+
+\bibitem{A0_00Kirilyuk2010}
+\selectlanguageifdefined{english}
+\BibEmph{Kirilyuk~A., Kimel~A.~V., Rasing~T.} Ultrafast optical manipulation of
+  magnetic order~//
+  \href{http://dx.doi.org/10.1103/revmodphys.82.2731}{\BibEmph{Reviews of
+  Modern Physics}}. \BibDash
+\newblock 2010. \BibDash sep. \BibDash
+\newblock \CYRT.~82, no.~3. \BibDash
+\newblock P.~2731--2784.
+
+\bibitem{Tang2003}
+\selectlanguageifdefined{english}
+\BibEmph{Tang~H.~X., Kawakami~R.~K., Awschalom~D.~D., Roukes~M.~L.} Giant
+  Planar Hall Effect in Epitaxial (Ga,Mn)As Devices~//
+  \href{http://dx.doi.org/10.1103/physrevlett.90.107201}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2003. \BibDash mar. \BibDash
+\newblock \CYRT.~90, no.~10. \BibDash
+\newblock P.~107201.
+
+\bibitem{A0_00_Tang2007}
+\selectlanguageifdefined{english}
+\BibEmph{Tang~H., Roukes~M.~K.} Sensors based on giant planar hall effect in
+  dilute magnetic semiconductors. \BibDash
+\newblock 2007. \BibDash jul. \BibDash
+\newblock US Patent 7,249,518.
+
+\bibitem{Novak2008}
+\selectlanguageifdefined{english}
+\BibEmph{Nov{\'{a}}k~V., Olejn{\'{\i}}k~K., Wunderlich~J. et~al.} Curie Point
+  Singularity in the Temperature Derivative of Resistivity in (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevlett.101.077201}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2008. \BibDash aug. \BibDash
+\newblock \CYRT. 101, no.~7. \BibDash
+\newblock P.~077201.
+
+\bibitem{Jungwirth2005}
+\selectlanguageifdefined{english}
+\BibEmph{Jungwirth~T., Wang~K.~Y., Ma{\v{s}}ek~J. et~al.} Prospects for high
+  temperature ferromagnetism in (Ga,Mn)As semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevb.72.165204}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2005. \BibDash oct. \BibDash
+\newblock \CYRT.~72, no.~16. \BibDash
+\newblock P.~165204.
+
+\bibitem{Geschwind1980}
+\selectlanguageifdefined{english}
+\BibEmph{Geschwind~S., Walstedt~R.~E., Romestain~R. et~al.} The study of
+  electron dynamics in n-type {CdS} by spin-flip Raman scattering~//
+  \href{http://dx.doi.org/10.1080/01418638008222340}{\BibEmph{Philosophical
+  Magazine B}}. \BibDash
+\newblock 1980. \BibDash Dec. \BibDash
+\newblock \CYRT.~42, no.~6. \BibDash
+\newblock P.~961--977.
+
+\bibitem{A3_20_Debus_2013_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Debus~J., Dunker~D., Sapega~V.~F. et~al.} Spin-flip Raman scattering
+  of the neutral and charged excitons confined in a {CdTe}/(Cd,Mg)Te quantum
+  well~// \href{http://dx.doi.org/10.1103/physrevb.87.205316}{\BibEmph{Physical
+  Review B}}. \BibDash
+\newblock 2013. \BibDash May. \BibDash
+\newblock \CYRT.~87, no.~20. \BibDash
+\newblock P.~205316.
+
+\bibitem{A0_00_Levanyuk_1981}
+\selectlanguageifdefined{russian}
+\BibEmph{Леванюк~{\CYRA}.~{\CYRP}., Осипов~{\CYRV}.~{\CYRV}.} Краевая
+  люминесценция прямозонных полупроводников~// \BibEmph{Успехи физических
+  наук}. \BibDash
+\newblock 1981. \BibDash
+\newblock \CYRT. 133, {\cyr\textnumero}~3. \BibDash
+\newblock {\cyr\CYRS.}~427--477.
+
+\bibitem{A0_00_Cardona_1979}
+\selectlanguageifdefined{russian}
+Рассеяние света в твердых телах~/ {\cyr\CYRP\cyro\cyrd\ \cyrr\cyre\cyrd.\ }\
+  {\CYRM}.~Кардона. \BibDash
+\newblock Мир, 1979.
+
+\bibitem{A1_23_A2_20_A3_14_Sapega_2001}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Ruf~T., Cardona~M.} Spin-Flip Raman Study of Exchange
+  Interactions in Bulk {GaAs}:Mn~//
+  \href{http://dx.doi.org/10.1002/1521-3951(200108)226:2<339::aid-pssb339>3.0.co;2-8}{\BibEmph{Physica
+  Status Solidi (b)}}. \BibDash
+\newblock 2001. \BibDash Aug. \BibDash
+\newblock \CYRT. 226, no.~2. \BibDash
+\newblock P.~339--356.
+
+\bibitem{A0_00_Akimov_2013}
+\selectlanguageifdefined{english}
+\BibEmph{Akimov~I.~A., Dzhioev~R.~I., Korenev~V.~L. et~al.} Electron spin
+  dynamics and optical orientation of $Mn^{2+}$ ions in {GaAs}~//
+  \href{http://dx.doi.org/10.1063/1.4795527}{\BibEmph{Journal of Applied
+  Physics}}. \BibDash
+\newblock 2013. \BibDash apr. \BibDash
+\newblock \CYRT. 113, no.~13. \BibDash
+\newblock P.~136501.
+
+\bibitem{A0_00_SemicSemi_1972}
+\selectlanguageifdefined{english}
+\BibEmph{Bebb~H.~B., Williams~E.~W.} Semiconductors and Semimetals, eds. RK
+  Willardson and AC Beer. \BibDash
+\newblock Academic Press, New York and London, 1972.
+
+\bibitem{A0_00_Akimov2017}
+\selectlanguageifdefined{english}
+\BibEmph{Akimov~I.~A., Salewski~M., Kalitukha~I.~V. et~al.} Direct measurement
+  of the long-range p-d exchange coupling in a ferromagnet-semiconductor
+  Co/CdMgTe/CdTe quantum well hybrid structure~//
+  \href{http://dx.doi.org/10.1103/PhysRevB.96.184412}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2017. \BibDash
+\newblock \CYRT.~96, no.~18. \BibDash
+\newblock P.~184412.
+
+\bibitem{A1_20_A3_12_A4_08_FTT_1988_30_765}
+\selectlanguageifdefined{russian}
+\BibEmph{Аверкиев~{\CYRN}.~{\CYRS}., Гуткин~{\CYRA}.~{\CYRA}.,
+  Осипов~{\CYRE}.~{\CYRB}., Рещиков~{\CYRM}.~{\CYRA}.} Влияние обменного
+  взаимодействия дырки с 3d-электронами на свойства глубокого акцептора Mn в
+  арсениде галлия~// \BibEmph{ФТТ}. \BibDash
+\newblock 1988. \BibDash
+\newblock \CYRT.~30, {\cyr\textnumero}~3. \BibDash
+\newblock {\cyr\CYRS.}~765--774.
+
+\bibitem{A0_01_Averkiev}
+\selectlanguageifdefined{russian}
+\BibEmph{Аверкиев~{\CYRN}.~{\CYRS}., Гуткин~{\CYRA}.~{\CYRA}.,
+  Осипов~{\CYRE}.~{\CYRB}., Рещиков~{\CYRM}.~{\CYRA}.} Модель глубокого центра
+  $Mn_{Ga}$ в GaAs. \BibDash
+\newblock Ленинград~: Академия Наук СССР, ФТИ им. А.Ф. Иоффе, 1988.
+
+\bibitem{FUM_article}
+\selectlanguageifdefined{russian}
+\BibEmph{Багликов~{\CYRB}.~{\CYRB}., Парыгин~{\CYRV}.~{\CYRN}.} Резонансный
+  фотоупругий модулятор света на кристалле АДР~// \BibEmph{Вестн. Моск. ун-та.
+  Сер. 3. Физ. Астрон.} \BibDash
+\newblock 1967. \BibDash
+\newblock {\cyr\textnumero}~5. \BibDash
+\newblock {\cyr\CYRS.}~118.
+
+\bibitem{A4_07_JVSTB_2006_24_1734}
+\selectlanguageifdefined{english}
+\BibEmph{Kolovos-Vellianitis~D., Herrmann~C., Trampert~A. et~al.} Structural
+  and magnetic properties of (Ga,Mn)As/{AlAs} multiple quantum wells grown by
+  low-temperature molecular beam epitaxy~//
+  \href{http://dx.doi.org/10.1116/1.2209993}{\BibEmph{Journal of Vacuum Science
+  {\&} Technology B: Microelectronics and Nanometer Structures}}. \BibDash
+\newblock 2006. \BibDash
+\newblock \CYRT.~24, no.~4. \BibDash
+\newblock P.~1734.
+
+\bibitem{A1_21_A3_10_A4_09_SVSS_Karlik_1982_24-2022}
+\selectlanguageifdefined{russian}
+\BibEmph{Карлик~{\CYRI}.~{\CYRYA}., Меркулов~{\CYRI}.~{\CYRA}.,
+  Мирлин~{\CYRD}.~{\CYRN}. {\cyr\cyri~\cyrd\cyrr.}} Намагничивание дырок на
+  акцепторах и поляризация горячей фотолюминесценции в кристаллах GaAs:Mn~//
+  \BibEmph{ФТТ}. \BibDash
+\newblock 1982. \BibDash
+\newblock \CYRT.~24. \BibDash
+\newblock {\cyr\CYRS.}~3550--3557.
+
+\bibitem{A1_22_A3_11_Schneider_1987_Physicalreviewletters}
+\selectlanguageifdefined{english}
+\BibEmph{Schneider~J., Kaufmann~U., Wilkening~W. et~al.} Electronic structure
+  of the neutral manganese acceptor in gallium arsenide~//
+  \href{http://dx.doi.org/10.1103/physrevlett.59.240}{\BibEmph{Physical Review
+  Letters}}. \BibDash
+\newblock 1987. \BibDash jul. \BibDash
+\newblock \CYRT.~59, no.~2. \BibDash
+\newblock P.~240--243.
+
+\bibitem{A1_25_A2_31_A3_13_Linnarsson_1997_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Linnarsson~M., Janz{\'{e}}n~E., Monemar~B. et~al.} Electronic
+  structure of the $GaAs:Mn_{Ga}$ center~//
+  \href{http://dx.doi.org/10.1103/physrevb.55.6938}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 1997. \BibDash mar. \BibDash
+\newblock \CYRT.~55, no.~11. \BibDash
+\newblock P.~6938--6944.
+
+\bibitem{A2_29_A3_23_Sapega_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Sablina~N.~I., Panaiotti~I.~E. et~al.} Hole spin
+  polarization in the exchange field of the dilute magnetic (Ga,Mn)As
+  semiconductor studied by means of polarized hot-electron photoluminescence
+  spectroscopy~//
+  \href{http://dx.doi.org/10.1103/physrevb.80.041202}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2009. \BibDash jul. \BibDash
+\newblock \CYRT.~80, no.~4. \BibDash
+\newblock P.~041202.
+
+\bibitem{A3_19_Krainov_2015_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Krainov~I.~V., Sapega~V.~F., Averkiev~N.~S. et~al.} Manganese spin
+  dephasing mechanisms in ferromagnetic (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevb.92.245201}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2015. \BibDash dec. \BibDash
+\newblock \CYRT.~92, no.~24. \BibDash
+\newblock P.~245201.
+
+\bibitem{A3_25_Yu_2002_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Yu~K.~M., Walukiewicz~W., Wojtowicz~T. et~al.} Effect of the location
+  of Mn sites in ferromagnetic $Ga_{1-x} Mn_{x} As$ on its Curie temperature~//
+  \href{http://dx.doi.org/10.1103/physrevb.65.201303}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2002. \BibDash apr. \BibDash
+\newblock \CYRT.~65, no.~20. \BibDash
+\newblock P.~201303.
+
+\bibitem{A3_26_Averkiev_1984_SOVIETPHYSICSSEMICONDUCTORS-USSR}
+\selectlanguageifdefined{russian}
+\BibEmph{Аверкиев~{\CYRN}.~{\CYRS}., Гуткин~{\CYRA}.~{\CYRA}.,
+  {\CYRM}.~Колчанова~{\CYRN}., Рещиков~{\CYRM}.~{\CYRA}.} Влияние одноосной
+  деформации на связанную с Mn полосу примесной фото- люминесценции в GaAs~//
+  \BibEmph{ФТП}. \BibDash
+\newblock 1984. \BibDash
+\newblock \CYRT.~18, {\cyr\textnumero}~9. \BibDash
+\newblock {\cyr\CYRS.}~1629.
+
+\bibitem{A3_27_Monakhov_2008_SolidStateCommunications}
+\selectlanguageifdefined{english}
+\BibEmph{Monakhov~A.~M., Sablina~N.~I., Averkiev~N.~S. et~al.} Spatial
+  distribution of a hole localized on acceptor in deformed crystal~//
+  \href{http://dx.doi.org/10.1016/j.ssc.2008.03.025}{\BibEmph{Solid State
+  Communications}}. \BibDash
+\newblock 2008. \BibDash jun. \BibDash
+\newblock \CYRT. 146, no. 9-10. \BibDash
+\newblock P.~416--419.
+
+\bibitem{A3_28_Yakunin_2007_Naturematerials}
+\selectlanguageifdefined{english}
+\BibEmph{Yakunin~A.~M., Silov~A.~Yu., Koenraad~P.~M. et~al.} Warping a single
+  Mn acceptor wavefunction by straining the {GaAs} host~//
+  \href{http://dx.doi.org/10.1038/nmat1936}{\BibEmph{Nature Materials}}.
+  \BibDash
+\newblock 2007. \BibDash jun. \BibDash
+\newblock \CYRT.~6, no.~7. \BibDash
+\newblock P.~512--515.
+
+\bibitem{A1_08_Chung_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Chung~S., Kim~H.C., Lee~S. et~al.} The effect of carrier density on
+  magnetic anisotropy of the ferromagnetic semiconductor (Ga, Mn)As~//
+  \href{http://dx.doi.org/10.1016/j.ssc.2009.07.024}{\BibEmph{Solid State
+  Communications}}. \BibDash
+\newblock 2009. \BibDash nov. \BibDash
+\newblock \CYRT. 149, no. 41-42. \BibDash
+\newblock P.~1739--1742.
+
+\bibitem{A0_00_Landau_1982b}
+\selectlanguageifdefined{russian}
+\BibEmph{Ландау~{\CYRL}.~{\CYRD}., Лифшиц~{\CYRE}.~{\CYRM}.} Электродинамика
+  сплошных сред. \BibDash
+\newblock Москва~: Наука, Главная Редакция Физико-математической литературы,
+  1982.
+
+\bibitem{A3_02_Dietl_2014_ReviewsofModernPhysics}
+\selectlanguageifdefined{english}
+\BibEmph{Dietl~T., Ohno~H.} Dilute ferromagnetic semiconductors: Physics and
+  spintronic structures~//
+  \href{http://dx.doi.org/10.1103/revmodphys.86.187}{\BibEmph{Reviews of Modern
+  Physics}}. \BibDash
+\newblock 2014. \BibDash mar. \BibDash
+\newblock \CYRT.~86, no.~1. \BibDash
+\newblock P.~187--251.
+
+\bibitem{A1_18_A4_05_PRL_2005_94_137401}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Moreno~M., Ramsteiner~M. et~al.} Polarization of Valence
+  Band Holes in the (Ga,Mn)As Diluted Magnetic Semiconductor~//
+  \href{http://dx.doi.org/10.1103/physrevlett.94.137401}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2005. \BibDash apr. \BibDash
+\newblock \CYRT.~94, no.~13. \BibDash
+\newblock P.~137401.
+
+\bibitem{A1_19_A4_06_PRB_2006_73_235208}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Ramsteiner~M., Brandt~O. et~al.} Hot-electron
+  photoluminescence study of the (Ga,Mn)As diluted magnetic semiconductor~//
+  \href{http://dx.doi.org/10.1103/physrevb.73.235208}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2006. \BibDash jun. \BibDash
+\newblock \CYRT.~73, no.~23. \BibDash
+\newblock P.~235208.
+
+\bibitem{A1_24_Bir_Pikus}
+\selectlanguageifdefined{russian}
+\BibEmph{Бир~{\CYRG}.~{\CYRL}., Пикус~{\CYRG}.~{\CYRE}.} Симметрия и
+  деформационные эффекты в полупроводниках. \BibDash
+\newblock 1972. \BibDash
+\newblock
+  ISBN:~\href{http://isbndb.com/search-all.html?kw=0470073217}{0470073217}.
+
+\bibitem{A2_28_A3_06_Sapega_2013_SolidStateCommunications}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Kraynov~I.~V., Sablina~N.~I. et~al.} Control of magnetic
+  anisotropy by external fields in ferromagnetic (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1016/j.ssc.2012.12.004}{\BibEmph{Solid State
+  Communications}}. \BibDash
+\newblock 2013. \BibDash mar. \BibDash
+\newblock \CYRT. 157. \BibDash
+\newblock P.~34--37.
+
+\bibitem{Schmidt1977}
+\selectlanguageifdefined{english}
+\BibEmph{Schmidt~M.} Acceptor ground states in nearly cubic semiconductors~//
+  \href{http://dx.doi.org/10.1002/pssb.2220790217}{\BibEmph{Physica Status
+  Solidi (b)}}. \BibDash
+\newblock 1977. \BibDash feb. \BibDash
+\newblock \CYRT.~79, no.~2. \BibDash
+\newblock P.~533--538.
+
+\bibitem{A1_26_A2_22_Liu_2006}
+\selectlanguageifdefined{english}
+\BibEmph{Liu~X., Furdyna~J.~K.} Ferromagnetic resonance in $Ga_{1-x} Mn_{x} As$
+  dilute magnetic semiconductors~//
+  \href{http://dx.doi.org/10.1088/0953-8984/18/13/r02}{\BibEmph{Journal of
+  Physics: Condensed Matter}}. \BibDash
+\newblock 2006. \BibDash mar. \BibDash
+\newblock \CYRT.~18, no.~13. \BibDash
+\newblock P.~R245--R279.
+
+\bibitem{Hayashi1997}
+\selectlanguageifdefined{english}
+\BibEmph{Hayashi~T., Tanaka~M., Seto~K. et~al.} {III}{\textendash}V based
+  magnetic({GaMnAs})/nonmagnetic({AlAs}) semiconductor superlattices~//
+  \href{http://dx.doi.org/10.1063/1.119411}{\BibEmph{Applied Physics Letters}}.
+  \BibDash
+\newblock 1997. \BibDash sep. \BibDash
+\newblock \CYRT.~71, no.~13. \BibDash
+\newblock P.~1825--1827.
+
+\bibitem{Hayashi1998}
+\selectlanguageifdefined{english}
+\BibEmph{Hayashi~T., Tanaka~M., Seto~K. et~al.} Hall effect and magnetic
+  properties of {III}{\textendash}V based $(Ga_{1-x} Mn_x) As/AlAs$ magnetic
+  semiconductor superlattices~//
+  \href{http://dx.doi.org/10.1063/1.367577}{\BibEmph{Journal of Applied
+  Physics}}. \BibDash
+\newblock 1998. \BibDash jun. \BibDash
+\newblock \CYRT.~83, no.~11. \BibDash
+\newblock P.~6551--6553.
+
+\bibitem{A0_00_Tanaka2001}
+\selectlanguageifdefined{english}
+\BibEmph{Tanaka~M., Higo~Y.} Large Tunneling Magnetoresistance in
+  {GaMnAs}/{AlAs}/{GaMnAs} Ferromagnetic Semiconductor Tunnel Junctions~//
+  \href{http://dx.doi.org/10.1103/physrevlett.87.026602}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2001. \BibDash jun. \BibDash
+\newblock \CYRT.~87, no.~2. \BibDash
+\newblock P.~026602.
+
+\bibitem{Ohya2005}
+\selectlanguageifdefined{english}
+\BibEmph{Ohya~S., Hai~P.~N., Tanaka~M.} Tunneling magnetoresistance in
+  {GaMnAs}/{AlAs}/{InGaAs}/{AlAs}/{GaMnAs} double-barrier magnetic tunnel
+  junctions~// \href{http://dx.doi.org/10.1063/1.1978976}{\BibEmph{Applied
+  Physics Letters}}. \BibDash
+\newblock 2005. \BibDash jul. \BibDash
+\newblock \CYRT.~87, no.~1. \BibDash
+\newblock P.~012105.
+
+\bibitem{Prinz1998}
+\selectlanguageifdefined{english}
+\BibEmph{Prinz~G.~A.} Magnetoelectronics~//
+  \href{http://dx.doi.org/10.1126/science.282.5394.1660}{\BibEmph{Science}}.
+  \BibDash
+\newblock 1998. \BibDash nov. \BibDash
+\newblock \CYRT. 282, no. 5394. \BibDash
+\newblock P.~1660--1663.
+
+\bibitem{A4_02_PRL_2005_95_017204}
+\selectlanguageifdefined{english}
+\BibEmph{Myers~R.~C., Poggio~M., Stern~N.~P. et~al.} Antiferromagnetic s-{d
+  Exchange} Coupling in {GaMnAs}~//
+  \href{http://dx.doi.org/10.1103/physrevlett.95.017204}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2005. \BibDash jun. \BibDash
+\newblock \CYRT.~95, no.~1. \BibDash
+\newblock P.~017204.
+
+\bibitem{A4_03_PRB_2005_72_235313}
+\selectlanguageifdefined{english}
+\BibEmph{Poggio~M., Myers~R.~C., Stern~N.~P. et~al.} Structural, electrical,
+  and magneto-optical characterization of paramagnetic {GaMnAs} quantum
+  wells~//
+  \href{http://dx.doi.org/10.1103/physrevb.72.235313}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2005. \BibDash dec. \BibDash
+\newblock \CYRT.~72, no.~23. \BibDash
+\newblock P.~235313.
+
+\bibitem{Kesteren1990}
+\selectlanguageifdefined{english}
+\BibEmph{van Kesteren~H.~W., Cosman~E.~C., van~der Poel~W. A. J.~A.,
+  Foxon~C.~T.} Fine structure of excitons in type-{II} {GaAs}/{AlAs} quantum
+  wells~// \href{http://dx.doi.org/10.1103/physrevb.41.5283}{\BibEmph{Physical
+  Review B}}. \BibDash
+\newblock 1990. \BibDash mar. \BibDash
+\newblock \CYRT.~41, no.~8. \BibDash
+\newblock P.~5283--5292.
+
+\bibitem{Sapega2007}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Brandt~O., Ramsteiner~M. et~al.} Hole spin polarization
+  in $GaAs:Mn/AlAs$ multiple quantum wells~//
+  \href{http://dx.doi.org/10.1103/physrevb.75.113310}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2007. \BibDash mar. \BibDash
+\newblock \CYRT.~75, no.~11.
+
+\bibitem{Alekseev1989}
+\selectlanguageifdefined{russian}
+\BibEmph{Алексеев~{\CYRM}.~{\CYRA}., Карлик~{\CYRI}.~{\CYRYA}.,
+  Мирлин~{\CYRD}.~{\CYRN}., Сапега~{\CYRV}.~{\CYRF}.} Спектроскопия горячей
+  фотолюминесценции в полупроводниках~// \BibEmph{Физика и техника
+  полупроводников}. \BibDash
+\newblock 1989. \BibDash
+\newblock {\cyr\textnumero}~5. \BibDash
+\newblock {\cyr\CYRS.}~761.
+
+\bibitem{A4_10_PRB_Sapega_1994_50-2510}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Ruf~T., Cardona~M. et~al.} Resonant Raman scattering due
+  to bound-carrier spin flip in $GaAs/Al_{x} Ga_{1-x} As$ quantum wells~//
+  \href{http://dx.doi.org/10.1103/physrevb.50.2510}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 1994. \BibDash jul. \BibDash
+\newblock \CYRT.~50, no.~4. \BibDash
+\newblock P.~2510--2519.
+
+\bibitem{A2_02_Kimel_2004}
+\selectlanguageifdefined{english}
+\BibEmph{Kimel~A.~V., Astakhov~G.~V., Schott~G.~M. et~al.} Picosecond Dynamics
+  of the Photoinduced Spin Polarization in Epitaxial (Ga,Mn)As Films~//
+  \href{http://dx.doi.org/10.1103/physrevlett.92.237203}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2004. \BibDash jun. \BibDash
+\newblock \CYRT.~92, no.~23. \BibDash
+\newblock P.~237203.
+
+\bibitem{A2_03_Mitsumori_2004}
+\selectlanguageifdefined{english}
+\BibEmph{Mitsumori~Y., Oiwa~A., S{\l}upinski~T. et~al.} Dynamics of
+  photoinduced magnetization rotation in ferromagnetic semiconductor
+  p-(Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevb.69.033203}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2004. \BibDash jan. \BibDash
+\newblock \CYRT.~69, no.~3. \BibDash
+\newblock P.~033203.
+
+\bibitem{A2_04_Wang_2007}
+\selectlanguageifdefined{english}
+\BibEmph{Wang~D.~M., Ren~Y.~H., Liu~X. et~al.} Light-induced magnetic
+  precession in (Ga,Mn)As slabs: Hybrid standing-wave Damon-Eshbach modes~//
+  \href{http://dx.doi.org/10.1103/physrevb.75.233308}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2007. \BibDash jun. \BibDash
+\newblock \CYRT.~75, no.~23. \BibDash
+\newblock P.~233308.
+
+\bibitem{A2_05_Rubinstein_2002}
+\selectlanguageifdefined{english}
+\BibEmph{Rubinstein~M., Hanbicki~A., Lubitz~P. et~al.} Ferromagnetic resonance
+  in (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1016/s0304-8853(02)00376-1}{\BibEmph{Journal of
+  Magnetism and Magnetic Materials}}. \BibDash
+\newblock 2002. \BibDash sep. \BibDash
+\newblock \CYRT. 250. \BibDash
+\newblock P.~164--169.
+
+\bibitem{A2_06_Sinova_2004}
+\selectlanguageifdefined{english}
+\BibEmph{Sinova~J., Jungwirth~T., Liu~X. et~al.} Magnetization relaxation in
+  (Ga,Mn)As ferromagnetic semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevb.69.085209}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2004. \BibDash feb. \BibDash
+\newblock \CYRT.~69, no.~8. \BibDash
+\newblock P.~085209.
+
+\bibitem{A2_08_Liu_2005}
+\selectlanguageifdefined{english}
+\BibEmph{Liu~X., Lim~W.~L., Dobrowolska~M. et~al.} Ferromagnetic resonance
+  study of the free-hole contribution to magnetization and magnetic anisotropy
+  in modulation-doped $Ga_{1-x} Mn_{x} As/Ga_{1-y} Al_{y} As:Be$~//
+  \href{http://dx.doi.org/10.1103/physrevb.71.035307}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2005. \BibDash jan. \BibDash
+\newblock \CYRT.~71, no.~3. \BibDash
+\newblock P.~035307.
+
+\bibitem{A2_09_Khazen_2008}
+\selectlanguageifdefined{english}
+\BibEmph{Khazen~Kh., von Bardeleben~H.~J., Cantin~J.~L. et~al.} Ferromagnetic
+  resonance of $Ga_{0.93} Mn_{0.07} As$ thin films with constant Mn and
+  variable free-hole concentrations~//
+  \href{http://dx.doi.org/10.1103/physrevb.77.165204}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2008. \BibDash apr. \BibDash
+\newblock \CYRT.~77, no.~16. \BibDash
+\newblock P.~165204.
+
+\bibitem{A2_10_Sliwa_2006}
+\selectlanguageifdefined{english}
+\BibEmph{{\'{S}}liwa~C., Dietl~T.} Magnitude and crystalline anisotropy of hole
+  magnetization in (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevb.74.245215}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2006. \BibDash dec. \BibDash
+\newblock \CYRT.~74, no.~24. \BibDash
+\newblock P.~245215.
+
+\bibitem{A2_24_Kittel_1959}
+\selectlanguageifdefined{english}
+\BibEmph{Kittel~C.} Theory of Ferromagnetic Resonance in Rare Earth Garnets. I.
+  g Values~//
+  \href{http://dx.doi.org/10.1103/physrev.115.1587}{\BibEmph{Physical Review}}.
+  \BibDash
+\newblock 1959. \BibDash sep. \BibDash
+\newblock \CYRT. 115, no.~6. \BibDash
+\newblock P.~1587--1590.
+
+\bibitem{A2_11_Zhu_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Zhu~Y., Zhang~X., Li~T. et~al.} Spin relaxation and dephasing
+  mechanism in (Ga,Mn)As studied by time-resolved Kerr rotation~//
+  \href{http://dx.doi.org/10.1063/1.3116716}{\BibEmph{Applied Physics
+  Letters}}. \BibDash
+\newblock 2009. \BibDash apr. \BibDash
+\newblock \CYRT.~94, no.~14. \BibDash
+\newblock P.~142109.
+
+\bibitem{A2_14_Patz_2015}
+\selectlanguageifdefined{english}
+\BibEmph{Patz~A., Li~T., Liu~X. et~al.} Ultrafast probes of nonequilibrium hole
+  spin relaxation in the ferromagnetic semiconductor {GaMnAs}~//
+  \href{http://dx.doi.org/10.1103/physrevb.91.155108}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2015. \BibDash apr. \BibDash
+\newblock \CYRT.~91, no.~15. \BibDash
+\newblock P.~155108.
+
+\bibitem{Wang2005}
+\selectlanguageifdefined{english}
+\BibEmph{Wang~J., Sun~C., Kono~J. et~al.} Ultrafast Quenching of Ferromagnetism
+  in {InMnAs} Induced by Intense Laser Irradiation~//
+  \href{http://dx.doi.org/10.1103/physrevlett.95.167401}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2005. \BibDash oct. \BibDash
+\newblock \CYRT.~95, no.~16.
+
+\bibitem{Shen2012}
+\selectlanguageifdefined{english}
+\BibEmph{Shen~K., Wu~M.~W.} Hole spin relaxation and coefficients in
+  Landau-Lifshitz-Gilbert equation in ferromagnetic (Ga,Mn)As~//
+  \href{http://dx.doi.org/10.1103/physrevb.85.075206}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2012. \BibDash feb. \BibDash
+\newblock \CYRT.~85, no.~7.
+
+\bibitem{A2_15_Henn_2013}
+\selectlanguageifdefined{english}
+\BibEmph{Henn~T., Kiessling~T., Ossau~W. et~al.} Picosecond real-space imaging
+  of electron spin diffusion in {GaAs}~//
+  \href{http://dx.doi.org/10.1103/physrevb.88.195202}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2013. \BibDash nov. \BibDash
+\newblock \CYRT.~88, no.~19. \BibDash
+\newblock P.~195202.
+
+\bibitem{A2_16_R_ster_2003}
+\selectlanguageifdefined{english}
+\BibEmph{R\"{u}ster~C., Borzenko~T., Gould~C. et~al.} Very Large
+  Magnetoresistance in Lateral Ferromagnetic (Ga,Mn)As Wires with
+  Nanoconstrictions~//
+  \href{http://dx.doi.org/10.1103/physrevlett.91.216602}{\BibEmph{Physical
+  Review Letters}}. \BibDash
+\newblock 2003. \BibDash nov. \BibDash
+\newblock \CYRT.~91, no.~21. \BibDash
+\newblock P.~216602.
+
+\bibitem{A2_17_A3_16_Petrou_1982}
+\selectlanguageifdefined{english}
+\BibEmph{Petrou~A., Peterson~D.~L., Venugopalan~S. et~al.} Zeeman Effect of the
+  Magnetic Excitations in a Diluted Magnetic Semiconductor: A Raman Scattering
+  Study of $Cd_{1-x} Mn_{x} Te$~//
+  \href{http://dx.doi.org/10.1103/physrevlett.48.1036}{\BibEmph{Physical Review
+  Letters}}. \BibDash
+\newblock 1982. \BibDash apr. \BibDash
+\newblock \CYRT.~48, no.~15. \BibDash
+\newblock P.~1036--1039.
+
+\bibitem{A2_18_A3_17_Peterson_1985}
+\selectlanguageifdefined{english}
+\BibEmph{Peterson~D.~L., Bartholomew~D.~U., Debska~U. et~al.} Spin-flip Raman
+  scattering in n-type diluted magnetic semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevb.32.323}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 1985. \BibDash jul. \BibDash
+\newblock \CYRT.~32, no.~1. \BibDash
+\newblock P.~323--340.
+
+\bibitem{A2_19_A3_18_Petrou_1983}
+\selectlanguageifdefined{english}
+\BibEmph{Petrou~A., Peterson~D.~L., Venugopalan~S. et~al.} Raman scattering
+  study of the magnetic excitations in diluted magnetic semiconductors in the
+  presence of an external magnetic field~//
+  \href{http://dx.doi.org/10.1103/physrevb.27.3471}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 1983. \BibDash mar. \BibDash
+\newblock \CYRT.~27, no.~6. \BibDash
+\newblock P.~3471--3482.
+
+\bibitem{A2_21_A3_15_Sapega_2002_PhysicalReviewB}
+\selectlanguageifdefined{english}
+\BibEmph{Sapega~V.~F., Moreno~M., Ramsteiner~M. et~al.} Electronic structure of
+  Mn ions in (Ga,Mn)As diluted magnetic semiconductor~//
+  \href{http://dx.doi.org/10.1103/physrevb.66.075217}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2002. \BibDash aug. \BibDash
+\newblock \CYRT.~66, no.~7. \BibDash
+\newblock P.~075217.
+
+\bibitem{A0_00_Wohlfarth1948}
+\selectlanguageifdefined{english}
+\BibEmph{Stoner~E.~C., Wohlfarth~E.~P.} A mechanism of magnetic hysteresis in
+  heterogeneous alloys~//
+  \href{http://dx.doi.org/10.1109/tmag.1991.1183750}{\BibEmph{Phil. Trans. R.
+  Soc. Lond. A}}. \BibDash
+\newblock 1948. \BibDash
+\newblock \CYRT. 240, no. 826. \BibDash
+\newblock P.~599--642.
+
+\bibitem{A0_00_Moore2003}
+\selectlanguageifdefined{english}
+\BibEmph{Moore~G.~P., Ferr{\'{e}}~J., Mougin~A. et~al.} Magnetic anisotropy and
+  switching process in diluted $Ga_{1-x} Mn_{x} As$ magnetic semiconductor
+  films~// \href{http://dx.doi.org/10.1063/1.1601690}{\BibEmph{Journal of
+  Applied Physics}}. \BibDash
+\newblock 2003. \BibDash oct. \BibDash
+\newblock \CYRT.~94, no.~7. \BibDash
+\newblock P.~4530--4534.
+
+\bibitem{A0_00_Sawicki2004}
+\selectlanguageifdefined{english}
+\BibEmph{Sawicki~M., Matsukura~F., Idziaszek~A. et~al.} Temperature dependent
+  magnetic anisotropy in (Ga,Mn)As layers~//
+  \href{http://dx.doi.org/10.1103/physrevb.70.245325}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2004. \BibDash dec. \BibDash
+\newblock \CYRT.~70, no.~24.
+
+\bibitem{A0_00_Kittel_1951}
+\selectlanguageifdefined{english}
+\BibEmph{Herring~C., Kittel~C.} On the Theory of Spin Waves in Ferromagnetic
+  Media~// \href{http://dx.doi.org/10.1103/physrev.81.869}{\BibEmph{Physical
+  Review}}. \BibDash
+\newblock 1951. \BibDash mar. \BibDash
+\newblock \CYRT.~81, no.~5. \BibDash
+\newblock P.~869--880.
+
+\bibitem{A2_25_Haghgoo_2010}
+\selectlanguageifdefined{english}
+\BibEmph{Haghgoo~S., Cubukcu~M., von Bardeleben~H.~J. et~al.} Exchange constant
+  and domain wall width in (Ga,Mn)(As,P) films with self-organization of
+  magnetic domains~//
+  \href{http://dx.doi.org/10.1103/physrevb.82.041301}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2010. \BibDash jul. \BibDash
+\newblock \CYRT.~82, no.~4. \BibDash
+\newblock P.~041301.
+
+\bibitem{A2_26_Zhou_2007}
+\selectlanguageifdefined{english}
+\BibEmph{Zhou~Y.-Y., Cho~Y.-J., Ge~Z. et~al.} Magnetic Anisotropy, Spin
+  Pinning, and Exchange Constants of (Ga,Mn)As Films~//
+  \href{http://dx.doi.org/10.1109/tmag.2007.893316}{\BibEmph{{IEEE}
+  Transactions on Magnetics}}. \BibDash
+\newblock 2007. \BibDash jun. \BibDash
+\newblock \CYRT.~43, no.~6. \BibDash
+\newblock P.~3019--3021.
+
+\bibitem{A2_27_Bihler_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Bihler~C., Schoch~W., Limmer~W. et~al.} Spin-wave resonances and
+  surface spin pinning in $Ga_{1-x} Mn_{x} As$ thin films~//
+  \href{http://dx.doi.org/10.1103/physrevb.79.045205}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2009. \BibDash jan. \BibDash
+\newblock \CYRT.~79, no.~4. \BibDash
+\newblock P.~045205.
+
+\bibitem{A1_13_A2_30_Dietl_2001}
+\selectlanguageifdefined{english}
+\BibEmph{Dietl~T., Ohno~H., Matsukura~F.} Hole-mediated ferromagnetism in
+  tetrahedrally coordinated semiconductors~//
+  \href{http://dx.doi.org/10.1103/physrevb.63.195205}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2001. \BibDash apr. \BibDash
+\newblock \CYRT.~63, no.~19. \BibDash
+\newblock P.~195205.
+
+\bibitem{A2_33_Qi_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Qi~J., Xu~Y., Steigerwald~A. et~al.} Ultrafast laser-induced coherent
+  spin dynamics in ferromagnetic $Ga_{1-x} Mn_{x} As/Ga As$ structures~//
+  \href{http://dx.doi.org/10.1103/physrevb.79.085304}{\BibEmph{Physical Review
+  B}}. \BibDash
+\newblock 2009. \BibDash feb. \BibDash
+\newblock \CYRT.~79, no.~8.
+
+\end{thebibliography}

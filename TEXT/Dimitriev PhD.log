@@ -1,0 +1,2485 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.2)  2 FEB 2021 14:57
+entering extended mode
+**"d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Dimitriev PhD.tex"
+("d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Dimitriev PhD.tex"
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@chapter=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\settings/dist_packages.tex" (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
+Package: cmap 2021/01/29 v1.0i CMap support: searchable PDF
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count187
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+(C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen140
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip16
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks18
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks19
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks23
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+Package hyperref Info: Option `unicode' set `true' on input line 3427.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count273
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen160
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip52
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box49
+\UL@hyphenbox=\box50
+\UL@skip=\skip53
+\UL@hook=\toks25
+\UL@height=\dimen163
+\UL@pe=\count280
+\UL@pixel=\dimen164
+\ULC@box=\box51
+Package: ulem 2019/11/18
+\ULdepth=\dimen165
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box52
+\extrarowheight=\dimen167
+\NC@list=\toks26
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box53
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen168
+\TX@old@table=\dimen169
+\TX@old@col=\dimen170
+\TX@target=\dimen171
+\TX@delta=\dimen172
+\TX@cols=\count281
+\TX@ftn=\toks27
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count282
+\multirow@dima=\skip57
+\bigstrutjot=\dimen173
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/totalcount\totalcount.sty
+Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
+\c@totalcount@figure=\count283
+\c@totalcount@table=\count284
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/totcount\totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX counters
+)) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count285
+) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\settings/dist_style.tex"
+\c@citenum=\count286
+\c@citenum@totc=\count287
+\c@mylabelcounter=\count288
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 179.
+
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box54
+) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.aux" ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\TitlePage.aux")
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 23.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+\openout1 = `"Dimitriev PhD.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \th on input line 15.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen174
+\scratchbox=\box55
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen175
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks29
+) (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 497.92325pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=497.92325pt
+* \textheight=731.23584pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=0.0pt
+* \footskip=12.3pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 15.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
+("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.out") ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.out")
+\@outlinefile=\write3
+\openout3 = `"Dimitriev PhD.out"'.
+
+LaTeX Info: Redefining \celsius on input line 15.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 15.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 15.
+Package gensymb Info: Using \Omega for \ohm on input line 15.
+
+Package gensymb Warning: Not defining \micro.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 15.
+\openout2 = `TitlePage.aux'.
+
+("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\TitlePage.tex") [1
+
+
+{C:/Users/G/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.toc"<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (C:\Users\G\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 7238) in paragraph at lines 11--11
+ [] [][]\T2A/cmr/bx/n/14.4 Энергетическая струк-ту-ра оди-ноч-но-го ак-цеп-то-ра Mn в 
+ []
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 22.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
+
+
+
+]
+Underfull \hbox (badness 4518) in paragraph at lines 27--27
+ [] [][]\T2A/cmr/bx/n/14.4 Механизмы де-фа-зи-ров-ки спи-нов Mn в фер-ро-маг-нит-ном 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `"Dimitriev PhD.toc"'.
+
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 30.
+
+("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Intro.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\actualnost.tex"
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 9.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\intro_tail.tex" (../TEXT/main_intro_1.tex (../TEXT/novelty.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]) (../TEXT/PracticalSignificance.tex) (../TEXT/polozh.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]) (../TEXT/approb.tex)) (../TEXT/main_intro_2.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_ExperimentSetup.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_LitOverview/Methods.tex"
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 19.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11
+
+]
+<Images//ChapterLitOverview-img/ZacharchenyGaAs_HPL.pdf, id=347, 504.38437pt x 575.90157pt>
+File: Images//ChapterLitOverview-img/ZacharchenyGaAs_HPL.pdf Graphic file (type pdf)
+<use Images//ChapterLitOverview-img/ZacharchenyGaAs_HPL.pdf>
+Package pdftex.def Info: Images//ChapterLitOverview-img/ZacharchenyGaAs_HPL.pdf  used on input line 42.
+(pdftex.def)             Requested size: 199.16626pt x 227.40393pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterLitOverview-img/ZacharchenyGaAs_HPL.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+<Images//ChapterLitOverview-img/ChapterLitOverview-img023.pdf, id=411, 451.6875pt x 252.19218pt>
+File: Images//ChapterLitOverview-img/ChapterLitOverview-img023.pdf Graphic file (type pdf)
+<use Images//ChapterLitOverview-img/ChapterLitOverview-img023.pdf>
+Package pdftex.def Info: Images//ChapterLitOverview-img/ChapterLitOverview-img023.pdf  used on input line 88.
+(pdftex.def)             Requested size: 248.96162pt x 139.00627pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterLitOverview-img/ChapterLitOverview-img023.pdf>]
+<Images//ChapterLitOverview-img/ChapterLitOverview-A0X-SFRS.pdf, id=443, 1346.92442pt x 611.2019pt>
+File: Images//ChapterLitOverview-img/ChapterLitOverview-A0X-SFRS.pdf Graphic file (type pdf)
+<use Images//ChapterLitOverview-img/ChapterLitOverview-A0X-SFRS.pdf>
+Package pdftex.def Info: Images//ChapterLitOverview-img/ChapterLitOverview-A0X-SFRS.pdf  used on input line 102.
+(pdftex.def)             Requested size: 497.92325pt x 225.94531pt.
+)
+<Images//ChapterExperimentMethod-img/ChapterExperimentMethod-img001.pdf, id=444, 1204.5pt x 909.3975pt>
+File: Images//ChapterExperimentMethod-img/ChapterExperimentMethod-img001.pdf Graphic file (type pdf)
+<use Images//ChapterExperimentMethod-img/ChapterExperimentMethod-img001.pdf>
+Package pdftex.def Info: Images//ChapterExperimentMethod-img/ChapterExperimentMethod-img001.pdf  used on input line 16.
+(pdftex.def)             Requested size: 497.92325pt x 375.93593pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterLitOverview-img/ChapterLitOverview-A0X-SFRS.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterExperimentMethod-img/ChapterExperimentMethod-img001.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+<Images//ChapterExperimentMethod-img/Chapter2-holder_construction.pdf, id=510, 368.87813pt x 489.32813pt>
+File: Images//ChapterExperimentMethod-img/Chapter2-holder_construction.pdf Graphic file (type pdf)
+<use Images//ChapterExperimentMethod-img/Chapter2-holder_construction.pdf>
+Package pdftex.def Info: Images//ChapterExperimentMethod-img/Chapter2-holder_construction.pdf  used on input line 75.
+(pdftex.def)             Requested size: 248.96162pt x 330.25235pt.
+Package epstopdf Info: Source file: <Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve.eps>
+(epstopdf)                    date: 2018-09-15 22:07:28
+(epstopdf)                    size: 40423 bytes
+(epstopdf)             Output file: <Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-15 22:07:37
+(epstopdf)                    size: 32247 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+<Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf, id=511, 774.895pt x 593.21625pt>
+File: Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf>
+Package pdftex.def Info: Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf  used on input line 85.
+(pdftex.def)             Requested size: 298.75697pt x 228.7103pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterExperimentMethod-img/Chapter2-holder_construction.pdf> <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterExperimentMethod-img/Ch2_spring_calibration_curve-eps-converted-to.pdf>]
+<Images//ChapterExperimentMethod-img/Program_c.png, id=565, 1686.3pt x 1013.7875pt>
+File: Images//ChapterExperimentMethod-img/Program_c.png Graphic file (type png)
+<use Images//ChapterExperimentMethod-img/Program_c.png>
+Package pdftex.def Info: Images//ChapterExperimentMethod-img/Program_c.png  used on input line 125.
+(pdftex.def)             Requested size: 398.3401pt x 239.47763pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//ChapterExperimentMethod-img/Program_c.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/bx/n/12 Содержание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/bx/n/12 Магнитное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/bx/n/12 Толщина
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/bx/n/12 слоя (или
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/bx/n/12 ши-ри-на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/bx/n/12 T ро-ста
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5 \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 321--321
+[][][][][][] 
+ []
+
+) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_EnergyStructure.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 10.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+<Images//Chapter3-img/Chapter3-img001.pdf, id=635, 590.18533pt x 927.3777pt>
+File: Images//Chapter3-img/Chapter3-img001.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img001.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img001.pdf  used on input line 36.
+(pdftex.def)             Requested size: 174.27617pt x 273.84291pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28]
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img002.eps>
+(epstopdf)                    date: 2018-05-09 12:40:06
+(epstopdf)                    size: 144308 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-09 12:40:39
+(epstopdf)                    size: 54292 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img002.eps>
+(epstopdf)             \includegraphics on input line 52.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf, id=645, 438.63875pt x 327.2225pt>
+File: Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf  used on input line 52.
+(pdftex.def)             Requested size: 348.54475pt x 260.01581pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img001.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img003.eps>
+(epstopdf)                    date: 2018-09-26 19:47:36
+(epstopdf)                    size: 27334 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 19:47:42
+(epstopdf)                    size: 13693 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img003.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf, id=702, 668.4975pt x 536.0025pt>
+File: Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf  used on input line 62.
+(pdftex.def)             Requested size: 298.75697pt x 239.54678pt.
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img004.eps>
+(epstopdf)                    date: 2018-09-26 19:49:34
+(epstopdf)                    size: 94715 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 19:49:37
+(epstopdf)                    size: 42120 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img004.eps>
+(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf, id=707, 512.91624pt x 854.19125pt>
+File: Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf  used on input line 72.
+(pdftex.def)             Requested size: 298.75697pt x 497.54277pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img002-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img005.eps>
+(epstopdf)                    date: 2018-09-26 19:38:11
+(epstopdf)                    size: 50741 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 19:38:34
+(epstopdf)                    size: 23964 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img005.eps>
+(epstopdf)             \includegraphics on input line 82.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf, id=731, 632.3625pt x 530.98375pt>
+File: Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf  used on input line 82.
+(pdftex.def)             Requested size: 298.75697pt x 250.86684pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img003-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img004-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img005-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img006.eps>
+(epstopdf)                    date: 2018-09-26 21:24:18
+(epstopdf)                    size: 72348 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 21:24:26
+(epstopdf)                    size: 32277 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img006.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf, id=885, 632.3625pt x 530.98375pt>
+File: Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf  used on input line 94.
+(pdftex.def)             Requested size: 298.75697pt x 250.86684pt.
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img007.eps>
+(epstopdf)                    date: 2018-09-26 19:38:28
+(epstopdf)                    size: 60905 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 19:38:34
+(epstopdf)                    size: 30840 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img007.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf, id=891, 632.3625pt x 530.98375pt>
+File: Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf  used on input line 104.
+(pdftex.def)             Requested size: 298.75697pt x 250.86684pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img006-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img007-eps-converted-to.pdf>]
+Underfull \hbox (badness 2884) in paragraph at lines 130--132
+\T2A/cmr/m/n/14.4 зу-ем-ся опе-ра-то-ром спи-на иона $\OML/cmm/m/it/14.4 Mn[]$ \T2A/cmr/m/n/14.4 в пред-став-ле-нии вза-и-мо-дей-ствия:
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
+Package epstopdf Info: Source file: <Images//Chapter3-img/Chapter3-img008.eps>
+(epstopdf)                    date: 2018-09-26 19:58:42
+(epstopdf)                    size: 76324 bytes
+(epstopdf)             Output file: <Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 19:58:56
+(epstopdf)                    size: 32819 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf Images//Chapter3-img/Chapter3-img008.eps>
+(epstopdf)             \includegraphics on input line 174.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf, id=1043, 621.32124pt x 549.05125pt>
+File: Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf  used on input line 174.
+(pdftex.def)             Requested size: 348.54475pt x 308.00278pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter3-img/Chapter3-img008-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_MagneticAnisotropy.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 22.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+Underfull \hbox (badness 1484) in paragraph at lines 77--78
+[]\T2A/cmr/bx/n/14.4 Управление на-прав-ле-ни-ем век-то-ра на-маг-ни-чен-но-сти внеш-ним
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49]
+<Images//Chapter4-img/Chapter4-img001.pdf, id=1227, 1069.01079pt x 417.02844pt>
+File: Images//Chapter4-img/Chapter4-img001.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img001.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img001.pdf  used on input line 103.
+(pdftex.def)             Requested size: 398.3401pt x 155.3926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T2A/cmr/bx/n/12 Содержание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T2A/cmr/bx/n/12 Магнитное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T2A/cmr/bx/n/12 Толщина
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 144--144
+[][][][][][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img001.pdf>]
+<Images//Chapter4-img/Chapter4-img002.pdf, id=1257, 663.804pt x 927.3777pt>
+File: Images//Chapter4-img/Chapter4-img002.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img002.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img002.pdf  used on input line 155.
+(pdftex.def)             Requested size: 199.16626pt x 278.24376pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51]
+Package epstopdf Info: Source file: <Images//Chapter4-img/Chapter4-img003.eps>
+(epstopdf)                    date: 2018-06-29 08:54:20
+(epstopdf)                    size: 82771 bytes
+(epstopdf)             Output file: <Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-29 08:54:26
+(epstopdf)                    size: 34214 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf Images//Chapter4-img/Chapter4-img003.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf, id=1276, 774.895pt x 593.21625pt>
+File: Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf  used on input line 166.
+(pdftex.def)             Requested size: 348.54475pt x 266.82716pt.
+Package epstopdf Info: Source file: <Images//Chapter4-img/Chapter4-img004.eps>
+(epstopdf)                    date: 2018-06-18 15:07:30
+(epstopdf)                    size: 39881 bytes
+(epstopdf)             Output file: <Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-18 15:09:56
+(epstopdf)                    size: 20880 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf Images//Chapter4-img/Chapter4-img004.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf, id=1277, 567.11874pt x 574.145pt>
+File: Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf  used on input line 172.
+(pdftex.def)             Requested size: 248.96162pt x 252.04637pt.
+Package epstopdf Info: Source file: <Images//Chapter4-img/Chapter4-img005.eps>
+(epstopdf)                    date: 2018-06-21 09:45:45
+(epstopdf)                    size: 50021 bytes
+(epstopdf)             Output file: <Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-21 09:45:54
+(epstopdf)                    size: 29187 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf Images//Chapter4-img/Chapter4-img005.eps>
+(epstopdf)             \includegraphics on input line 182.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf, id=1278, 1195.46625pt x 541.02126pt>
+File: Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf  used on input line 182.
+(pdftex.def)             Requested size: 497.92325pt x 225.34515pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img002.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img003-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img004-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]\T2A/cmr/m/n/14.4 Зависимость кру-го-вой по-ля-ри-за-ции ГФЛ фер-ро-маг-нит-но-го об-раз-ца
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img005-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter4-img/Chapter4-img006.eps>
+(epstopdf)                    date: 2018-09-26 20:03:36
+(epstopdf)                    size: 38042 bytes
+(epstopdf)             Output file: <Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:03:46
+(epstopdf)                    size: 17799 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf Images//Chapter4-img/Chapter4-img006.eps>
+(epstopdf)             \includegraphics on input line 200.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf, id=1463, 698.61pt x 517.935pt>
+File: Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf  used on input line 200.
+(pdftex.def)             Requested size: 298.75697pt x 221.49063pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img006-eps-converted-to.pdf>]
+<Images//Chapter4-img/Chapter4-img007.pdf, id=1518, 281.47812pt x 248.0366pt>
+File: Images//Chapter4-img/Chapter4-img007.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img007.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img007.pdf  used on input line 222.
+(pdftex.def)             Requested size: 199.16626pt x 175.50923pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img007.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58]
+Underfull \hbox (badness 3240) in paragraph at lines 256--258
+[]$[]$ \T2A/cmr/m/n/14.4 Да-лее мы рас-смот-рим
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
+<Images//Chapter4-img/Chapter4-img008.pdf, id=1601, 1116.42094pt x 619.56468pt>
+File: Images//Chapter4-img/Chapter4-img008.pdf Graphic file (type pdf)
+<use Images//Chapter4-img/Chapter4-img008.pdf>
+Package pdftex.def Info: Images//Chapter4-img/Chapter4-img008.pdf  used on input line 284.
+(pdftex.def)             Requested size: 398.3401pt x 221.05782pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter4-img/Chapter4-img008.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63]
+Underfull \hbox (badness 6808) in paragraph at lines 352--353
+[]\T2A/cmr/m/n/14.4 Определены по-сто-ян-ные маг-нит-ной ани-зо-тро-пии $[][][]\OT1/cmr/m/n/14.4 510[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 352--353
+[][][]\OT1/cmr/m/n/14.4 100[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 , $[][][] \OMS/cmsy/m/n/14.4   \OT1/cmr/m/n/14.4 35[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 , а так-же маг-ни-то-стрик-ции
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_QuantumWells.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 12.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+<Images//Chapter5-img/Chapter5-img001.pdf, id=1716, 1204.5pt x 856.70062pt>
+File: Images//Chapter5-img/Chapter5-img001.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img001.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img001.pdf  used on input line 29.
+(pdftex.def)             Requested size: 448.12788pt x 318.72594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/12 Концентрация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/12 Ширина
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\T2A/cmr/m/n/12 ямы(слоя)/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/12 Магнитное со-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--99
+\T2A/cmr/m/n/14.4 бы-ли вы-ра-ще-ны на по-лу-и-зо-ли-ру-ю-щей под-лож-ке GaAs(001) ме-то-дом
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img001.pdf>]
+<Images//Chapter5-img/Chapter5-MQW-scheme-optics.pdf, id=1756, 1204.5pt x 855.94781pt>
+File: Images//Chapter5-img/Chapter5-MQW-scheme-optics.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-MQW-scheme-optics.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-MQW-scheme-optics.pdf  used on input line 105.
+(pdftex.def)             Requested size: 348.54475pt x 247.68301pt.
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img004.eps>
+(epstopdf)                    date: 2018-06-22 09:10:08
+(epstopdf)                    size: 184651 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-22 09:11:59
+(epstopdf)                    size: 61991 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img004.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf, id=1757, 570.13pt x 650.43pt>
+File: Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf  used on input line 113.
+(pdftex.def)             Requested size: 298.75697pt x 340.83575pt.
+<Images//Chapter5-img/Chapter5-img005.pdf, id=1758, 770.88pt x 745.28438pt>
+File: Images//Chapter5-img/Chapter5-img005.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img005.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img005.pdf  used on input line 121.
+(pdftex.def)             Requested size: 248.96162pt x 240.69069pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-MQW-scheme-optics.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img004-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img005.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img006.eps>
+(epstopdf)                    date: 2018-06-22 09:11:52
+(epstopdf)                    size: 53567 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-22 09:11:59
+(epstopdf)                    size: 31966 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img006.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf, id=1883, 590.205pt x 770.88pt>
+File: Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf  used on input line 140.
+(pdftex.def)             Requested size: 298.75697pt x 390.2147pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img006-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img007.eps>
+(epstopdf)                    date: 2018-06-22 09:12:25
+(epstopdf)                    size: 50834 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-22 09:12:30
+(epstopdf)                    size: 25276 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img007.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf, id=1957, 590.205pt x 770.88pt>
+File: Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf  used on input line 152.
+(pdftex.def)             Requested size: 298.75697pt x 390.2147pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img007-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77]
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img008.eps>
+(epstopdf)                    date: 2018-05-14 10:00:46
+(epstopdf)                    size: 21271 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 10:01:01
+(epstopdf)                    size: 8907 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img008.eps>
+(epstopdf)             \includegraphics on input line 194.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf, id=2023, 867.24pt x 650.43pt>
+File: Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf  used on input line 194.
+(pdftex.def)             Requested size: 199.16626pt x 149.36748pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img008-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img009.eps>
+(epstopdf)                    date: 2018-05-14 09:04:59
+(epstopdf)                    size: 47200 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 09:08:54
+(epstopdf)                    size: 22301 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img009.eps>
+(epstopdf)             \includegraphics on input line 222.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf, id=2066, 774.895pt x 593.21625pt>
+File: Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf  used on input line 222.
+(pdftex.def)             Requested size: 298.75697pt x 228.7103pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img009-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter5-img/Chapter5-img010.eps>
+(epstopdf)                    date: 2018-05-14 08:55:22
+(epstopdf)                    size: 51927 bytes
+(epstopdf)             Output file: <Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 08:55:39
+(epstopdf)                    size: 24863 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf Images//Chapter5-img/Chapter5-img010.eps>
+(epstopdf)             \includegraphics on input line 248.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf, id=2132, 1138.2525pt x 593.21625pt>
+File: Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf  used on input line 248.
+(pdftex.def)             Requested size: 448.12788pt x 233.55298pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter5-img/Chapter5-img010-eps-converted-to.pdf>]
+Underfull \hbox (badness 2435) in paragraph at lines 277--278
+[]\T2A/cmr/m/n/14.4 Полученные экс-пе-ри-мен-таль-ные дан-ные и их тео-ре-ти-че-ский ана-лиз
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 277--278
+\T2A/cmr/m/n/14.4 де-мон-стри-ру-ют, что на-блю-да-е-мая по-ля-ри-за-ция ФЛ в СКЯ РМП
+ []
+
+) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Chapter_MnSpinDephasing.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 15.
+
+Missing character: There is no К in font cmr12!
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 18.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86]
+<Images//Chapter6-img/Chapter6-img001.pdf, id=2284, 1069.01079pt x 417.02844pt>
+File: Images//Chapter6-img/Chapter6-img001.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img001.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img001.pdf  used on input line 39.
+(pdftex.def)             Requested size: 398.3401pt x 155.3926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\T2A/cmr/bx/n/12 Содержание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\T2A/cmr/bx/n/12 Магнитное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\T2A/cmr/bx/n/12 Толщина
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5 \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 120--120
+[][][][][][] 
+ []
+
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img002.eps>
+(epstopdf)                    date: 2018-09-26 20:15:28
+(epstopdf)                    size: 43097 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:15:34
+(epstopdf)                    size: 21037 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img002.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf, id=2285, 650.43pt x 542.025pt>
+File: Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf  used on input line 125.
+(pdftex.def)             Requested size: 298.75697pt x 248.97061pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img001.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img003.eps>
+(epstopdf)                    date: 2018-06-19 13:42:13
+(epstopdf)                    size: 77262 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-19 13:42:54
+(epstopdf)                    size: 35348 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img003.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf, id=2321, 131.49126pt x 78.2925pt>
+File: Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf  used on input line 140.
+(pdftex.def)             Requested size: 348.54475pt x 207.5649pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img002-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img004.eps>
+(epstopdf)                    date: 2018-10-04 14:57:09
+(epstopdf)                    size: 92117 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-04 14:57:14
+(epstopdf)                    size: 47159 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img004.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf, id=2368, 645.41125pt x 481.8pt>
+File: Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf  used on input line 152.
+(pdftex.def)             Requested size: 348.54475pt x 260.19017pt.
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img005.eps>
+(epstopdf)                    date: 2018-09-26 20:27:56
+(epstopdf)                    size: 63054 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:28:00
+(epstopdf)                    size: 27841 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img005.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf, id=2372, 650.43pt x 916.42375pt>
+File: Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf  used on input line 162.
+(pdftex.def)             Requested size: 298.75697pt x 420.94478pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img003-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img008_0.eps>
+(epstopdf)                    date: 2018-10-04 15:24:07
+(epstopdf)                    size: 45841 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-04 15:24:12
+(epstopdf)                    size: 21617 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img008_0.eps>
+(epstopdf)             \includegraphics on input line 176.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf, id=2421, 668.4975pt x 530.98375pt>
+File: Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf  used on input line 176.
+(pdftex.def)             Requested size: 298.75697pt x 237.30383pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img004-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img005-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img009.eps>
+(epstopdf)                    date: 2018-09-26 20:42:48
+(epstopdf)                    size: 48570 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:42:55
+(epstopdf)                    size: 30192 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img009.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf, id=2569, 837.1275pt x 614.295pt>
+File: Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf  used on input line 188.
+(pdftex.def)             Requested size: 348.54475pt x 255.7619pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img008_0-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img009-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img011.eps>
+(epstopdf)                    date: 2018-09-26 20:40:35
+(epstopdf)                    size: 52927 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:40:40
+(epstopdf)                    size: 24537 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img011.eps>
+(epstopdf)             \includegraphics on input line 229.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf, id=2666, 800.9925pt x 542.025pt>
+File: Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf  used on input line 229.
+(pdftex.def)             Requested size: 348.54475pt x 235.86166pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img011-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96]
+Underfull \hbox (badness 3482) in paragraph at lines 287--289
+[]\T2A/cmr/m/n/14.4 Во мно-гих ис-сле-до-ва-ни-ях бы-ло уста-нов-ле-но, что фер-ро-маг-не-тизм в
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97]
+Overfull \hbox (11.47798pt too wide) detected at line 293
+[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img012.eps>
+(epstopdf)                    date: 2018-09-26 21:09:39
+(epstopdf)                    size: 52889 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 21:09:48
+(epstopdf)                    size: 23814 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img012.eps>
+(epstopdf)             \includegraphics on input line 314.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf, id=2779, 698.61pt x 530.98375pt>
+File: Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf  used on input line 314.
+(pdftex.def)             Requested size: 298.75697pt x 227.07082pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99]
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img008.eps>
+(epstopdf)                    date: 2018-09-26 20:48:54
+(epstopdf)                    size: 55240 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:49:02
+(epstopdf)                    size: 25686 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img008.eps>
+(epstopdf)             \includegraphics on input line 328.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf, id=2792, 675.52374pt x 542.025pt>
+File: Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf  used on input line 328.
+(pdftex.def)             Requested size: 298.75697pt x 239.71577pt.
+Package epstopdf Info: Source file: <Images//Chapter6-img/Chapter6-img010.eps>
+(epstopdf)                    date: 2018-09-26 20:52:03
+(epstopdf)                    size: 72983 bytes
+(epstopdf)             Output file: <Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-26 20:52:12
+(epstopdf)                    size: 36464 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf Images//Chapter6-img/Chapter6-img010.eps>
+(epstopdf)             \includegraphics on input line 336.
+Package epstopdf Info: Output file is already uptodate.
+<Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf, id=2797, 711.65875pt x 542.025pt>
+File: Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf Graphic file (type pdf)
+<use Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf>
+Package pdftex.def Info: Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf  used on input line 336.
+(pdftex.def)             Requested size: 298.75697pt x 227.54143pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[100 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img012-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[101 <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img008-eps-converted-to.pdf> <d:/Data/GitHub_Projects/Dimitriev Cand Tex (VSC)/TEXT/Images//Chapter6-img/Chapter6-img010-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[102]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[103]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\T2A/cmr/m/n/12 Наша
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[105]) ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Conclusion.tex"
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[106] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\KeyResults.tex"
+Underfull \hbox (badness 4859) in paragraph at lines 11--12
+[]\T2A/cmr/m/n/14.4 Определены по-сто-ян-ные маг-нит-ной ани-зо-тро-пии ($[][][]\OT1/cmr/m/n/14.4 510[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (100.12332pt too wide) in paragraph at lines 11--12
+[][][]\OT1/cmr/m/n/14.4 100[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 , $[][][] \OMS/cmsy/m/n/14.4   \OT1/cmr/m/n/14.4 35[] \OMS/cmsy/m/n/14.4  [][]$\T2A/cmr/m/n/14.4 ) и маг-ни-то-стрик-ции []
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 15--16
+\T2A/cmr/m/n/14.4 нит-но-го по-ля в струк-ту-рах с фер-ро-маг-нит-ны-ми кван-то-вы-ми яма-ми
+ []
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 16.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[107
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[108] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\publ_list.tex")
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[109])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[110] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.bbl"
+Underfull \hbox (badness 1603) in paragraph at lines 45--50
+[]\T2A/cmr/m/n/14.4 Chi P., Li S., Cheng Y. et al. []Architecture design with STT-RAM:
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 72--79
+[]\T2A/cmr/m/n/14.4 Story T., Galazka R. R., Frankel R. B., Wolff P. A. Carrier-
+ []
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 109.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[111
+
+]
+Underfull \hbox (badness 1655) in paragraph at lines 112--119
+\T2A/cmr/m/n/14.4 (GaMn)As and its heterostructures // []Journal of Vacuum Science &
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 133--141
+\T2A/cmr/m/n/14.4 actuator hybrids: A model system for magnetoelastic magnetization
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 164--172
+\T2A/cmr/m/n/14.4 on Ferromagnetically Coupled Mn Spins in the III-V Magnetic Alloy
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[112]
+Underfull \hbox (badness 6316) in paragraph at lines 276--281
+[]\T2A/cmr/m/n/14.4 McCluskey F. P., Podlesak T., Grzybowski R. High Temperature
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[113]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[114]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[115]
+Underfull \hbox (badness 2538) in paragraph at lines 548--555
+\T2A/cmr/m/n/14.4 of a hole localized on acceptor in deformed crystal // []Solid State
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
+[]\T2A/cmr/m/n/14.4 Hayashi T., Tanaka M., Seto K. et al. IIIV based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
+\T2A/cmr/m/n/14.4 magnetic(GaMnAs)/nonmagnetic(AlAs) semiconductor superlattices //
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--680
+[]\T2A/cmr/m/n/14.4 Tanaka M., Higo Y. Large Tunneling Magnetoresistance in
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 683--690
+[]\T2A/cmr/m/n/14.4 Ohya S., Hai P. N., Tanaka M. Tunneling magnetoresistance in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--690
+\T2A/cmr/m/n/14.4 GaMnAs/AlAs/InGaAs/AlAs/GaMnAs double-barrier magnetic tunnel
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[117]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[118]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[119]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[120]
+Underfull \hbox (badness 3826) in paragraph at lines 1025--1032
+[]\T2A/cmr/m/n/14.4 Dietl T., Ohno H., Matsukura F. Hole-mediated ferromagnetism in
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1035--1041
+\T2A/cmr/m/n/14.4 dynamics in ferromagnetic $\OML/cmm/m/it/14.4 Ga[]Mn[]As=GaAs$ \T2A/cmr/m/n/14.4 structures // []Physical
+ []
+
+) 
+AED: lastpage setting LastPage
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[121] ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.aux" ("d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\TitlePage.aux"))
+Package rerunfilecheck Info: File `"Dimitriev PhD".out' has not changed.
+(rerunfilecheck)             Checksum: ACE6373FD71C48C8A9F3909ECF930D88;9257.
+ ) 
+Here is how much of TeX's memory you used:
+ 14122 strings out of 479618
+ 212941 string characters out of 2866927
+ 562411 words of memory out of 3000000
+ 30449 multiletter control sequences out of 15000+200000
+ 435673 words of font info for 114 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 76i,16n,77p,11769b,637s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx0800.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\G\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/G/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "d:/Data\GitHub_Projects\Dimitriev Cand Tex (VSC)\TEXT\Dimitriev PhD.pdf" (121 pages, 2239317 bytes).
+PDF statistics:
+ 4024 PDF objects out of 4296 (max. 8388607)
+ 373 named destinations out of 1000 (max. 500000)
+ 500 words of extra memory for PDF output out of 10000 (max. 10000000)
+
